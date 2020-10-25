@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HCS_Workshop_2", "HCS_Workshop_2\HCS_Workshop_2.pyproj", "{BBBF4607-4111-4D1C-9CB3-861D1BCA0F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBF4607-4111-4D1C-9CB3-861D1BCA0F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBF4607-4111-4D1C-9CB3-861D1BCA0F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47621C0-13AE-4DC7-A7F6-7F17B12C46DE}
+	EndGlobalSection
+EndGlobal
