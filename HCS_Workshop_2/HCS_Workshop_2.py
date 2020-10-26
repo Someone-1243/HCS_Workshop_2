@@ -15,8 +15,10 @@ for item in items:
     driver.get("https://www.blogto.com/restaurants/c/toronto/" + item.get_text().strip().lower() + '/')
     html = driver.page_source
     smallSoup = BeautifulSoup(html, 'html.parser')
-    restaurants = smallSoup.find_all('a', attrs={'class':'listing-info-box-name-link'})
+
+    restaurants = smallSoup.find_all('li', attrs={'class':'listing-search-result-item'})
     for restaurant in restaurants:
-        print(restaurant.get_text())
+        print(restaurant.find('div', attrs={'class':'rating-star-medium-text'}).get_text(), end=', ')
+        print(restaurant.find('p', attrs={'class':'listing-search-result-name'}).get_text())
     print('--------')
     print()
