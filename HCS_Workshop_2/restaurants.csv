@@ -1,0 +1,981 @@
+Restaurant,Category,Neighborhood,Address,Phone Number,Rating
+African,Istar,Etobicoke,235 Dixon Rd.,416.247.5624,4.00
+African,Cassava Cuisine,Bloorcourt,685 Lansdowne Ave,416.551.6558,4.33
+African,Sahan,Scarborough,2010 Lawrence Ave. East,416.759.7242,5.00
+African,Naija Jollof,Mississauga,7215 Goreway Dr.,905.676.1515,5.00
+African,Chakula Hut,East York,1871 O'Connor Dr.,416.752.2786,3.00
+African,Simba Grill,East York,375 Donlands Avenue,416.429.6057,5.00
+Asian,Nai Nai Noodles,King West,852 King Street West,647.830.0320,3.50
+Asian,Sky Flower,Little Italy,Not Found,Not Found,4.00
+Asian,Xiang Long Zhua Zhua,North York,5 Northtown Way,647.748.8118,5.00
+Asian,Chaihana,North York,1000 Finch Ave. West,416.650.1973,4.75
+Asian,Hui Lau Shan,Yonge & Dundas,Not Found,Not Found,5.00
+Asian,Chotto Matte Toronto,Financial District,161 Bay St,416.988.8097,4.70
+Asian,Lion City Restaurant,Mississauga,"1177 Central Pkwy W, Unit 70",905.281.0860,4.50
+Asian,Three Monks and a Duck,West Queen West,811 Queen St W,416.901.9588,4.50
+Asian,Awas Tea Noodle,Chinatown,307 Spadina Ave,647.352.8281,4.67
+Asian,Gdous on Bloor,Annex,495 Bloor St West,Not Found,-
+Asian,Seoul Shakers,Bloordale Village,1241 Bloor Street West,Not Found,3.86
+Asian,Opium Bar,Dundas West,1321 Dundas St W,647.828.9193,4.20
+Asian,Chawk Bazar,Scarborough,1738 Lawrence Ave. East,437.886.6329,4.75
+Asian,Mother Tongue,Entertainment District,348 Adelaide Street West,647.243.5858,3.53
+Asian,Cafe Bon Bon,Richmond Hill,"550 Hwy 7, Unit #90",905.597.3166,4.75
+Asian,Azyun Restaurant,Markham,144 Main St N #17,905.554.1666,4.50
+Asian,The Haam,Entertainment District,342 Adelaide St. W.,416.977.7258,3.50
+Asian,Kid Lee,Financial District,100 King Street W.,647.352.0092,2.60
+Asian,Smile Dessert,Scarborough,3262 Midland Ave.,416.609.9996,3.00
+Asian,The Dessert Kitchen,Harbord Village,73 Harbord St,647.350.1911,4.63
+Asian,Mega Street Food Complex,North York,5629 Yonge St.,416.223.8882,4.60
+Asian,Meet Fresh,North York,5315 Yonge St.,416.546.5139,3.33
+Asian,Phoenix Cafe,Yonge & Dundas,10A Edward St.,416.546.1113,4.75
+Asian,Chi Chop,Yonge & Dundas,372 Yonge St,416.591.8818,4.60
+Asian,Flaming Kitchen,Markham,3235 Hwy 7,905.604.4880,4.25
+Asian,Chop Chop,Dundas West,771 Dundas Street West,Not Found,4.56
+Asian,Oxtail Pho & Banh Mi,Dundas West,Not Found,Not Found,4.00
+Asian,Fat Ninja Bite,Scarborough,3517 Kennedy Road,416.321.8866,4.67
+Asian,Lake Inez,Little India,1471 Gerrard St. E.,416.792.1590,4.53
+Asian,Lee Chen Asian Bistro on King,Entertainment District,214 King Street West,416.519.8688,4.14
+Asian,Basil Box on Queen,Queen West,441 Queen Street West,416.979.8000,5.00
+Asian,Lee Restaurant,King West,603 King Street West,416.504.7867,3.67
+Asian,Spicy Legend,Markham,4300 Steeles Avenue East Markham,647.863.0630,-
+Asian,Petit Potato,North York,10 Ravel Rd.,416.756.3311,5.00
+Asian,Te,Ossington,70 Ossington Ave. ,647.348.8009,3.80
+Asian,Basil Box,Yonge & Dundas,351 Yonge St.,416.351.8000,4.45
+Asian,Magic Noodle,Harbord Village,93 Harbord St.,647.345.8839,3.13
+Asian,Shameful Tiki Room,Parkdale,1378 Queen St. West,Not Found,3.94
+Asian,Rickshaw Bar,Queen West,685 Queen St. West,647.352.1227,4.67
+Asian,Miss Thing's,Parkdale,1279 Queen St. West,416.516.8677,3.64
+Barbecue,Art of BBQ,Scarborough,2478 Kingston Rd.,416.579.1217,4.75
+Barbecue,Meat & Pie Co.,King West,212 King Street West,416.901.6328,4.45
+Barbecue,The BarBQ Factory,East York,1559 O'Connor Drive,647.352.1979,4.78
+Barbecue,Beauty Eats,North York,2901 Bayview Avenue,647.943.6782,4.33
+Barbecue,Chainsmoker,North York,3513 Bathurst Street,647.350.8466,3.67
+Barbecue,Blackjack BBQ,Leslieville,1044 Gerrard St E,647.348.0088,4.38
+Barbecue,Beach Hill Smokehouse,Upper Beaches,172 Main St.,416.985.0133,5.00
+Barbecue,Earlscourt BBQ,Corso Italia,1278 St. Clair Ave. West,Not Found,4.09
+Barbecue,Joe Bird,Harbourfront,207 Queens Quay W,647.977.2767,4.06
+Barbecue,Appalachia BBQ,Etobicoke,2416 Lake Shore Blvd W.,416.252.2333,4.00
+Barbecue,Stockyards Smokehouse and Larder,St. Clair West,699 St. Clair Avenue West,416.658.9666,4.15
+Barbecue,Cherry Street Bar-B-Que,Port Lands,275 Cherry St.,416.461.5111,4.00
+Barbecue,Adamson Barbecue,Bayview and Leaside,176 Wicksteed Avenue,647.559.2080,4.09
+Barbecue,Little AAA,Leslieville,Not Found,Not Found,3.00
+Barbecue,Trinity Common,Kensington Market,303 Augusta Ave.,647.346.3030,4.00
+Barbecue,Memphis BBQ,Woodbridge,8074 Islington Ave,905.265.9003,4.75
+Barbecue,Smoque N Bones,West Queen West,869 Queen St. West,647.341.5730,4.36
+Barbecue,Greenwood Smokehouse BBQ,Danforth,673 Danforth Ave.,416.469.2270,4.50
+Barbecue,The Carbon Bar,Corktown,99 Queen St. E,416.947.7000,4.17
+Barbecue,Hogtown Smoke,Beaches,1959 Queen St. E,416.691.9009,4.40
+Barbecue,Holy Smokez,Mississauga,1133 Dundas Street East Mississauga,647.799.2273,4.00
+Barbecue,Triple A Bar,King East,138 Adelaide St. E.,416.850.2726,4.43
+Barbecue,Stack Restaurant,Yonge & Lawrence,3265 Yonge Street,647.346.1416,3.80
+Barbecue,Leslieville Pumps,Leslieville,913 Queen Street East,416.465.1313,3.93
+Barbecue,Barque Smokehouse,Roncesvalles Village,299 Roncesvalles Avenue,416.532.7700,4.29
+Barbecue,Big Bone BBQ & Wicked Wings,Markham,Not Found,Not Found,4.00
+Barbecue,Pig Out BBQ,Annex,650 Spadina Avenue,416.792.6120,4.50
+Barbecue,Boneyard Grill,Thornhill,10 Disera Drive,905.762.0825,-
+Barbecue,Breakwall BBQ,Beaches,1910 Queen Street East,416.699.4000,4.33
+Barbecue,AAA Public House,East Chinatown,598 Gerrard St East,416.901.8711,-
+Barbecue,Cherry Street Bar-B-Que (Assembly Chef's Hall),Financial District,111 Richmond Street West,416.461.5111,4.50
+Barbecue,Bill's Pit,Woodbridge,1200 Hwy 7 West Woodbridge,905.597.7706,-
+Barbecue,Flame & Smoke,Dundas West,707 Dundas St W,647.495.9097,-
+Barbecue,Tung Tak BBQ House,Scarborough,3833 Midland Avenue,416.298.1395,-
+Brazilian,Uai Pizzeria,St. Clair West,1262 St Clair Ave W,416.654.4824,3.20
+Brazilian,Samba Brazil Eatery,St. Clair West,Not Found,Not Found,4.80
+Brazilian,Rio 40,Corso Italia,1256 St. Clair Avenue West,416.654.6393,3.67
+Brazilian,Copacabana Restaurant (Adelaide),Entertainment District,Not Found,Not Found,2.29
+Brazilian,Touro Churrascaria,Richmond Hill,"125 York Boulevard, Richmond Hill",905.738.6876,4.00
+Brazilian,Copacabana Restaurant,Yonge & Eglinton,150 Eglinton Avenue East,416.916.2099,4.00
+Brazilian,Sabor Brasil,St. Clair West,1702 St. Clair Ave West,647.340.4036,5.00
+Brazilian,Rodeo Brazilian Steakhouse,Danforth,95 Danforth Ave.,416.465.0969,3.00
+Burgers,Matty's Patty's Burger Club,West Queen West,923 Queen St. West,Not Found,4.00
+Burgers,Slayer Burger,East York,1400 O'Connor Dr,416.846.3786,3.80
+Burgers,Drop Shop,Liberty Village,116 Atlantic Ave.,Not Found,4.75
+Burgers,The Bullger,Danforth,Not Found,Not Found,4.71
+Burgers,Happy Burger,Little Italy,76 Lippincott St,647.352.7777,5.00
+Burgers,Matt's Burger Lab,Parkdale,1205 Queen St W,416.792.4375,4.50
+Burgers,Aunty Lucy's,Annex,296 Brunswick Avenue,Not Found,4.75
+Burgers,Nice Nice x Extra Burger,Parkdale,269 Dunn Ave,Not Found,5.00
+Burgers,Fearless Meat,Beaches,884 Kingston Rd,647.484.4488,4.83
+Burgers,Gold Standard on Queen,Parkdale,1574 Queen St W,Not Found,3.33
+Burgers,Plan B Burgers,Etobicoke,2943A Bloor St West,416.231.4444,4.33
+Burgers,Jumbo Burgers,Junction,685 Runnymede Road,416.763.6961,4.20
+Burgers,Burgers n' Fries Forever,Ossington,182 Ossington Avenue,416.588.3456,4.88
+Burgers,Extra Burger,Dundas West,1357 Dundas Street West,Not Found,5.00
+Burgers,Burgers Park,North York,10 William Sylvester Drive,416.491.1954,4.57
+Burgers,Cabano's Comfort Food,Yonge & Bloor,75 St. Nicholas St,Not Found,5.00
+Burgers,Burger Shack,Yonge & Eglinton,233 Eglinton Avenue West,416.487.1974,4.09
+Burgers,Gold Standard,Roncesvalles Village,385 Roncesvalles Ave,Not Found,4.67
+Burgers,Ozzy's Burgers,Kensington Market,66 Nassau St.,416.862.7983,4.09
+Burgers,Planta Burger,Financial District,4 Temperance St,647.348.7000,3.48
+Burgers,Kookoo's Kitchen,Woodbridge,5100 Rutherford Road Woodbrige,905.893.9153,2.50
+Burgers,Rudy on College,Little Italy,619 College St,647.748.7839,4.44
+Burgers,Shamrock Burgers,Scarborough,6109 Kingston Road,416.282.0121,5.00
+Burgers,Apache Burgers,Etobicoke,5236 Dundas Street West,416.233.3046,3.71
+Burgers,Woody's Burgers,Etobicoke,3795 Lake Shore Boulevard West,416.546.2093,3.94
+Burgers,Mama's Boys Burgers,Scarborough,480 Danforth Rd.,416.269.6262,4.86
+Burgers,Johnny's Charbroiled Hamburgers,Scarborough,2595 Victoria Park Avenue,416.491.7222,4.05
+Burgers,Jackson's Burgers,Yonge & Dundas,38 Elm St.,647.748.5683,3.33
+Burgers,The Burgernator,Kensington Market,269 Augusta Ave.,647.748.0990,4.06
+Burgers,Five Guys Burgers and Fries (Yonge St.),Yonge & Dundas,329 Yonge Street,416.591.0404,4.71
+Burgers,Frankie's,West Queen West,994 Queen St. West,416.675.9009,3.83
+Burgers,Golden Star,North York,7123 Yonge Street,905.889.6891,4.00
+Burgers,Burger Stomper,Danforth,364 Danforth Avenue,647.347.7867,4.14
+Burgers,Harry's Drive-In,Scarborough,2280 Lawrence Ave East,416.759.5980,4.00
+Burgers,Burger's Priest (Yonge St.),Yonge & Lawrence,3397 Yonge St.,647.346.0617,3.56
+Burgers,Holy Chuck Burgers,Yonge & St. Clair,1450 Yonge St.,416.962.4285,4.09
+Burgers,Five Guys Burgers and Fries,North York,7600 Weston Road,905.856.7007,4.25
+Burgers,Burger Cellar,Yonge & Lawrence,3391 Yonge Street.,647.345.0084,4.00
+Burgers,Burger's Priest,Beaches,1636 Queen St. East,647.346.0617,4.18
+Burgers,Great Burger Kitchen,Leslieville,1056 Gerrard St E,416.778.0111,3.92
+Burritos,Chin Chin,CityPlace,363 Bremner Blvd,416.901.1990,4.25
+Burritos,Chino Locos,Leslieville,4 Greenwood Avenue,647.345.5626,3.47
+Burritos,Quesada Mexican Grill,Entertainment District,234 Wellington Street West,416.644.0876,-
+Burritos,Burrito Boyz (Adelaide St.),Entertainment District,224 Adelaide St. West,647.439.4065,3.86
+Burritos,Burrito Boyz (College St.),Little Italy,575 College St. West,416.588.2699,3.64
+Burritos,Big Fat Burrito,Kensington Market,285 Augusta Avenue,416.913.7487,4.56
+Burritos,Fat Bastard Burrito Co,Etobicoke,1180 The Queensway,416.252.0202,4.13
+Burritos,Chipotle (Yonge & Eg),Yonge & Eglinton,2323 Yonge Street #100,416.489.8601,3.43
+Burritos,Bolet's Burrito,King East,134 Lower Sherbourne,416.364.5811,4.60
+Burritos,Fat Bastard Burrito (King West),King West,628 King St W,647.748.4586,-
+Burritos,Burrito Boyz (Lakeshore),Etobicoke,3803 Lake Shore Blvd. West,416.251.2699,4.60
+Burritos,Snack Shack,Etobicoke,3260 Lake Shore Blvd. W.,647.508.5777,3.00
+Burritos,Burrito Bandidos (Yonge St.),Yonge & College,2 Grosvenor St.,647.352.4770,5.00
+Burritos,New York Subway,Queen West,520 Queen Street West,416.703.4496,4.67
+Burritos,Bar Burrito,Yonge & Wellesley,419 Yonge Street,416.922.4343,4.00
+Burritos,Fat Bastard Burrito Co. (Liberty Village),Liberty Village,126 Atlantic Avenue   ,647.748.5550,3.80
+Burritos,Fat Bastard Burrito Co. (Yonge St.),Yonge & Wellesley,634 Yonge St.,416.923.3222,3.50
+Burritos,Freshii,Queen West,140 Spadina Avenue (on Richmond),416.203.8456,-
+Burritos,Burrito Gordito,Entertainment District,120 Peter St.,647.343.8758,-
+Burritos,Burrito Place,North York,5653 Yonge St.,416.838.9888,-
+Burritos,Grillies,Danforth East,Not Found,Not Found,5.00
+Burritos,Freshwest Grill,Financial District,100 Wellington Street West,416.861.8163,4.50
+Burritos,Fat Bastard Burrito (Adelaide),Entertainment District,254 Adelaide Street West,647.345.8835,3.50
+Burritos,Mucho Burrito (Queen St.),Queen West,263 Queen St. West,416.335.4533,3.00
+Burritos,Burrito Bandidos (Beaches),Beaches,1614 Queen St. East,416.691.8080,2.33
+Burritos,Tacorrito (Queen West),Queen West,657 Queen St W,416.646.8226,5.00
+Burritos,Burrito Boyz (Dundas East),Yonge & Dundas,74 Dundas Street East,647.348.2699,4.00
+Burritos,Fat Bastard Burrito (College),University of Toronto,187 College Street,647.348.5551,4.00
+Burritos,Get & Go Burrito,North York,"1077 Wilson Ave., Unit #8",416.916.8750,3.00
+Burritos,Tacorrito (Church St.),Church Wellesley Village,556 Church St.,416.546.8226,2.75
+Burritos,Mucho Burrito,Financial District,100 King St. West,416.203.9920,1.67
+Burritos,Fiesta Burrito,Queen West,109 McCaul Street,647.347.4300,-
+Burritos,Bar Burrito (North York),North York,4918 Yonge Street,416.733.2424 ,-
+Burritos,Burrito Boyz (Parkdale),Parkdale,1736 Queen St West,416.537.2699,1.75
+Burritos,Taco Del Mar,Financial District,127 Bremner Blvd,647.344.4366,1.00
+Burritos,Burrito Boyz (Jutland),Etobicoke,21 Jutland Rd,416.503.2699,-
+Burritos,Bar Burrito (Mt. Sinai),Yonge & College,600 University Ave,Not Found,-
+Burritos,Burrito Express,Dundas West,1745 Dundas Street West,416.588.6666,-
+Burritos,Burro Burrito (Richmond West),Entertainment District,388 Richmond St.,647.349.6688,-
+Burritos,Burrito Caliente Latin Grill,Etobicoke,5555 Eglinton Ave. W.,416.877.8010,4.50
+Caribbean,Smoke n' Roti,North York,3320 Keele St,416.633.7171,5.00
+Caribbean,Cool Runnings,Scarborough,3095 Eglinton Ave E.,Not Found,5.00
+Caribbean,Patty Stop,Scarborough,5506 Lawrence Ave. E.,Not Found,4.50
+Caribbean,Diner's Corner,Yonge & Bloor,714 Yonge St.,416.929.7031,4.00
+Caribbean,Boukan,Upper Beaches,452 Kingston Rd,416.686.1880,5.00
+Caribbean,Scarlet Ibis,Scarborough,Not Found,Not Found,4.50
+Caribbean,The Palms Jerk & Grill,Stockyards District,2419 St Clair Ave W,416.767.6749,5.00
+Caribbean,SugarKane,Danforth,699 Danforth Avenue,416.469.0808,4.88
+Caribbean,Allwyn's Bakery on Queen,Queen West,404 Queen St. W.,Not Found,4.43
+Caribbean,Maracas,Kensington Market,Not Found,Not Found,2.71
+Caribbean,Nicey's Eatery,Scarborough,2290 Markham Rd,416.321.9991,4.20
+Caribbean,Tropical Joe's,Leslieville,1000 Gerrard St. E.,416.461.5030,4.67
+Caribbean,Golden Krust Toronto,North York,1700 Wilson Avenue,647.358.5423,-
+Caribbean,Scotty Bons,Scarborough,789 Warden Ave,416.752.7222,4.56
+Caribbean,Aunt Elsie's Caribbean Kitchen,Scarborough,2689 Eglinton Ave E,416.261.0250,5.00
+Caribbean,Chubby's Jamaican Kitchen,King West,104 Portland Street,416.792.8105,4.46
+Caribbean,Randy's Roti,Yonge & Bloor,876 Yonge Street,416.454.4785,3.50
+Caribbean,Jerk Paradise,Regent Park,"296A Gerrard St E,",416.901.5060,5.00
+Caribbean,Golden Patty,Kensington Market,187 Baldwin St,416.977.3191,4.33
+Caribbean,Taste Seduction,Junction,399 Keele St,416.763.8763,5.00
+Caribbean,Roywoods,CityPlace,121 Fort York Blvd,416.631.7574,4.83
+Caribbean,Rasta Pasta,Kensington Market,61 Kensington Avenue,647.501.4505,4.40
+Caribbean,Allwyn's Bakery,Don Mills,81 Underhill Drive,647.847.4698,4.21
+Caribbean,The Real Jerk (Kingston Rd.),Upper Beaches,1004 Kingston Rd.,(416.690.8752,3.33
+Caribbean,Simone's,Danforth,Not Found,Not Found,4.33
+Caribbean,Chris Jerk,Scarborough,2570 Birchmount Road,416.297.5375,3.91
+Caribbean,Patties Express,Yonge & Dundas,4 Elm St.,647.350.0111,3.88
+Caribbean,Rhum Corner,Dundas West,926 Dundas St. W,647.346.9356,4.00
+Caribbean,Irie Veggie,Keelesdale,2593 Eglinton Ave West,416.653.4825,5.00
+Caribbean,Randy's,Oakwood Village,1569 Eglinton Ave W,416.781.5313,4.13
+Caribbean,Mr. Jerk,St. James Town,209 Wellesley Street East,416.961.8913,-
+Caribbean,Albert's Real Jamaican,St. Clair West,542 St. Clair Avenue West,416.658.9445,3.67
+Caribbean,Allan's Pastry Shop,Scarborough,3447 Kennedy Rd,416.292.3909,4.33
+Caribbean,Caribbean Queen of Patties,Bloordale Village,1294 Bloor St West,416.538.1732,3.80
+Caribbean,Jerk King Bloorcourt,Bloorcourt,1104 Bloor St. West,416.531.0300,4.50
+Caribbean,Ritz Caribbean (Yonge and Shuter),Yonge & Dundas,211 Yonge St.,647.351.7489,4.00
+Caribbean,Mitzie's Jerk,Etobicoke,3337 Bloor Street W.,647.345.0077,5.00
+Caribbean,Caribbean Dutchpot,Danforth,749 Broadview Avenue,416.465.7779,-
+Caribbean,The Real Jerk (Gerrard St.),Leslieville,842 Gerrard St. E,416.463.6055,4.11
+Caribbean,Caribbean Wave,Scarborough,875 Milner Ave,416.286.9283,5.00
+Chinese,Noodle Me,Bloor West Village,2422 Bloor St W.,416.766.3773,4.67
+Chinese,East Court & Mike's BBQ,Scarborough,4400 Sheppard Ave E.,416.609.2388,4.50
+Chinese,Yang's Chinese Cuisine,Thornhill,"8432 Leslie St., Unit 110",905.881.9808,4.00
+Chinese,Yin Ji Chang Fen Chinatown,Chinatown,369 Spadina Ave,416.585.7888,4.33
+Chinese,Garden Hong Kong Cafe,Markham,"28 South Unionville Ave #1035, Markham",905.604.3863,3.75
+Chinese,Wonton Kitchen,Yonge & Wellesley,29B St. Joseph St.,416.964.9999,5.00
+Chinese,Mabu Generation Downtown,Yonge & Wellesley,578 Yonge Street,416.901.8183,5.00
+Chinese,Bone Soup Malatang,Yonge & Wellesley,522 Yonge St.,647.340.2112,3.00
+Chinese,Ten Miles BBQ,Chinatown,"359 Spadina Ave, Toronto, ON",416.593.6265,4.68
+Chinese,Mogouyan Hand-Pulled Noodles,Yonge & Bloor,760 Yonge St,416.890.1296,3.00
+Chinese,Yang's Braised Chicken,Markham,7080 Warden Ave.,905.604.6808,4.00
+Chinese,Jian Bing Club,Richmond Hill,370 Highway 7 #101C,905.597.9308,4.62
+Chinese,816 Cuisine,Thornhill,180 Steeles Ave. West,905.731.1816,4.67
+Chinese,MacaoDoulao,Richmond Hill,550 Highway 7 Unit 280,905.597.2226,4.67
+Chinese,Hotopia,Yonge & College,45 Carlton St.,416.977.8668,3.33
+Chinese,Chat Bar,North York,5312 Yonge St.,647.508.5588,-
+Chinese,Dasha,King West,620 King St. W,416.601.0662,4.33
+Chinese,Long Time No See,Chinatown,421 Dundas St. West.,Not Found,4.00
+Chinese,Chi Dim Sum,Yonge & Eglinton,2425 Yonge St.,416.483.1812,5.00
+Chinese,Lobster Port No. 1,Richmond Hill,Not Found,Not Found,3.75
+Chinese,Artisan Plus,Little Tokyo,122 Dundas St W,416.599.3189,4.40
+Chinese,Bauzza Bauzza,Little Italy,298 College St,647.347.8298,4.00
+Chinese,Green Tea Restaurant Toronto,Chinatown,261 Spadina Ave.,416.519.1073,-
+Chinese,DaLongYi,Richmond Hill,"350 Hwy 7, Unit #105",289.597.5666,-
+Chinese,Hutaoli Music Restaurant & Bar,Markham,3760 Hwy 7 #Unit 1,365.608.5333,-
+Chinese,Shi Miaodao Toronto,Chinatown,318 Spadina Ave,416.792.8628,4.83
+Chinese,The Daily Dumpling Wonton Co.,Little Italy,792 College Street,647.991.6704,3.53
+Chinese,Rosewood Chinese Cuisine,Chinatown,463 Dundas St. West,416.593.9998,3.63
+Chinese,Niuda Noodles,Queen West,204 Queen St W,416.599.6666,3.63
+Chinese,Sam's Congee Delight,Markham,7354 Woodbine Ave.,905.479.1074,4.50
+Chinese,HuaJia Rice Noodle,Annex,487 Bloor St. West,416.975.9986,3.00
+Chinese,Four Four South Village,Yonge & College,474 Yonge Street,416.413.9802,4.20
+Chinese,Juicy Dumpling,Chinatown,280 Spadina Ave.,647.352.5678,4.41
+Chinese,Coconut Seasons,Scarborough,668 Silver Star Blvd #203,647.633.8856,3.20
+Chinese,Hey Noodles,Chinatown,478 Dundas Street W.,647.352.8999,5.00
+Chinese,Greedy Duck,Little Italy,316 College St.,647.748.0168,-
+Chinese,Yueh Tung,Little Tokyo,111 Elizabeth Street,416.977.0933,4.00
+Chinese,Omni Palace,North York,"235 Consumers Rd E1, Toronto",416.493.0080,4.13
+Chinese,Sang-Ji Fried Bao,North York,1 Byng Ave,647.346.9199,4.78
+Chinese,GoGo Chicken Pot,Richmond Hill,10610 Bayview Avenue,905.737.1628,3.60
+Creole,Southern Accent,Little Italy,839 College St,416.901.3211,4.00
+Crepes,Crazy Crepes,Yonge & College,366 Church St,416.596.8388,4.00
+Crepes,Phyllo Cafe,Pape Village,1028 Pape Ave.,416.901.8877,4.75
+Crepes,Crepe TO,King East,52 Church Street M5C 3C8,647.352.5286,5.00
+Crepes,Cacao 70 Toronto,Distillery District,28 Gristmill Lane,416.216.8686,4.50
+Crepes,Millie Creperie,Kensington Market,161 Baldwin St.,416.977.1922,4.33
+Crepes,Crepes a GoGo,Annex,750 Spadina Avenue,416.922.6765,4.00
+Crepes,Krepesz European Palacsinta Cafe,Kensington Market,253 Augusta Ave,416.840.8930,4.50
+Crepes,Art Square Cafe,Baldwin Village,334 Dundas St West,416.595.5222,4.00
+Crepes,t-buds,Yonge & Lawrence,3343 Yonge St,647.352.3624,-
+Crepes,Crepe It Up,St. Lawrence Market,St. Lawrence Market (Lower Level),416.913.1737 ,3.25
+Crepes,Pastel,North York,5417 Yonge Street,647.352.5588,4.67
+Crepes,Muncheez Creperie,North York,"7181 Yonge St, Thornhill",416.788.9999,5.00
+Crepes,Spot Crepes & Tea,Chinatown,385 Spadina Ave,647.345.8018,4.00
+Crepes,Cacao 70 (Queen West),Queen West,485 Queen Street West,647.345.5288,-
+Crepes,Cacao 70 Scarborough,Scarborough,300 Borough Dr,647.350.7881,5.00
+Crepes,T-Swirl Crepe (Yonge),Yonge & Wellesley,510 Yonge St,647.341.0088,4.50
+Crepes,Sandwich & Crepe,Keelesdale,68 Industry St.,416.763.1420,5.00
+Cuban,El Habanero & Churrobar,Scarborough,4915 Steeles Ave East,416.293.6066,4.00
+Cuban,Mambo Lounge,Danforth,120 Danforth Ave.,416.778.7004,5.00
+Deli,Rock'N Deli,Don Mills,32 Clock Tower Rd,416.792.3354,2.90
+Deli,SumiLicious,Scarborough,5631 Steeles Ave E,647.347.8899,4.71
+Deli,Dunn's Famous Express,Danforth East,1779 Danforth Ave.,647.748.5088,3.60
+Deli,United Bakers Dairy,North York,506 Lawrence Ave West,416.789.0519,4.00
+Deli,Centre Street Deli,Thornhill,1136 Centre Street,905.731.8037,4.18
+Deli,Pancer's Original Deli,North York,3856 Bathurst St.,416.636.1230,3.00
+Deli,Wolfie's Deli,North York,670 Sheppard Ave. W,416.638.9653,5.00
+Deli,Zelden's Deli,Yonge & St. Clair,1446 Yonge St,647.347.3474,5.00
+Deli,New Yorker Deli,Yonge & Bloor,1140 Bay St.,416.923.3354,4.00
+Deli,St. Jamestown Delicatessen,Cabbagetown,518 Parliament St.,416.925.7665,4.00
+Deli,Pancer's Deli,Vaughan,9960 Dufferin Street Vaughan,905.417.1719,4.00
+Deli,Caplansky's Deli (Pearson),Mississauga,6301 Silver Dart Drive,416.500.3852,1.00
+Deli,Mercator,Scarborough,2046 Sheppard Ave E,416.916.4066,-
+Deli,Big Al's Delish,North York,3325 Bathurst Street,647.258.3354,-
+Deli,Steeles Deli Restaurant,North York,180 Steeles Avenue West,905.881.8366,-
+Diner,Flo's Diner,Yorkville,70 Yorkville Ave,416.961.4333,3.10
+Diner,The Amazing Ted's Diner,Scarborough,404 Old Kingston Rd.,416.282.2204,3.50
+Diner,Avenue Open Kitchen,Queen West,7 Camden Street,416.504.7131,3.88
+Diner,George Street Diner,King East,129 George St.,416.862.7676,3.85
+Diner,Gingerman Restaurant,Scarborough,1104 Victoria Park,416.757.5005,4.25
+Diner,Lakeview Restaurant,Dundas West,1132 Dundas St. West,416.850.8886,3.64
+Diner,Donlands Diner,East York,417 Donlands Avenue East,416.421.8500,3.86
+Diner,White Lily Diner,Riverside,678 Queen St E,416.901.7800,4.50
+Diner,Skyline Restaurant,Parkdale,1426 Queen St W,416.536.3682,4.67
+Diner,Mars Food,Little Italy,432 College St.,416.921.6332,2.80
+Diner,The Senator,Yonge & Dundas,249 Victoria St,416.364.7517,3.13
+Diner,Times Square Diner,North York,531 Wilson Heights Bl,416.630.7696,2.71
+Diner,Uncle Betty's Diner,Yonge & Eglinton,2590 Yonge Street,416.483.2590,3.00
+Diner,Chew Chew's Diner,Cabbagetown,186 Carlton St.,416.924.7583,4.38
+Diner,Gale's Snack Bar,Leslieville,539 Eastern Avenue,Not Found,4.75
+Diner,Vesta Lunch,Annex,474 Dupont Street,416.537.4318,3.25
+Diner,The Markham Station,Scarborough,5117 Sheppard Avenue,416.299.4141,4.00
+Diner,Zet's Restaurant,Mississauga,6445 Airport Road,905.678.1114,3.94
+Diner,UFO Restaurant,West Queen West,241 Niagara Street,416.703.0883,4.67
+Diner,Rosedale Diner,Rosedale,1164 Yonge Street,416.923.3122,3.86
+Diner,Patrician Grill,King East,219 King St. East,416.366.4841,3.75
+Diner,Coach House Restaurant,Yonge & Wellesley,574 Yonge Street,416.922.5551,4.00
+Diner,The Grille,Etobicoke,Not Found,Not Found,3.60
+Diner,Good Bite,Yonge & Eglinton,2463 Yonge Street,416.483.8432,3.75
+Diner,Fran's Diner (Front St.),Financial District,33 Yonge St.,647.352.3300,2.67
+Diner,Mars Uptown,Yonge & Eglinton,2363 Yonge St,416.322.7111,3.67
+Diner,Route 401 Diner,Etobicoke,2 Ronson Dr.,416.247.7836,-
+Diner,Bloor Jane Restaurant,Bloor West Village,2434 Bloor Street West,416.766.5383,4.00
+Diner,Frans Restaurant (Victoria St.),Yonge & Dundas,200 Victoria St.,416.304.0085,3.80
+Diner,Johnny G's,Cabbagetown,478 Parliament Street,416.928.1358,3.38
+Diner,Magic Spot,Etobicoke,2973 Bloor Street West,416.233.4244,4.43
+Diner,Dundas Street Grille,Etobicoke,5238 Dundas St W,416.239.6244,3.20
+Diner,Avenue Diner,Yorkville,222 Davenport Rd,416.924.5191,2.67
+Diner,Honey B Hives,Scarborough,2816 Markham Road,416.292.6499,5.00
+Diner,Galaxie Diner,Woodbridge,4401 Regional Road 7,905.264.7244,3.33
+Diner,Hazel's Diner,Yonge & Lawrence,3401 Yonge St.,416.850.0121,4.33
+Diner,Apollo Eleven Restaurant,Annex,1093 Bathurst St.,416.532.5675,4.00
+Diner,P&M Restaurant,North York,1972 Weston Rd.,416.241.3838,4.33
+Diner,The Originals Dining Lounge,Parkdale,160 Springhurst Ave,416.532.2908,4.50
+Diner,King's Diner,Upper Beaches,906 Kingston Road,647.349.3016,4.00
+Eclectic,Ruby Soho,King West,587 King St. West,416.901.7829,5.00
+Eclectic,Market 707,Dundas West,707 Dundas St W,416.392.0335,4.80
+Eclectic,Soul Provisions,Oakwood Village,571 Vaughan Rd,647.654.5065,4.75
+Eclectic,Wild Chicory,Mount Pleasant,525 Mount Pleasant Road,416.519.3758,4.67
+Eclectic,Holt's Cafe Toronto,Yorkville,50 Bloor Street West,416.922.2333,3.86
+Eclectic,Uncle Ray's,King East,9 Church St.,647.349.7297,4.67
+Eclectic,Mineral,Rosedale,1027 Yonge Street,416.925.8565,5.00
+Eclectic,Bar Piquette,West Queen West,1084 Queen St. West,Not Found,4.50
+Eclectic,Est Restaurant,Riverside,729 Queen St. East,416.792.1000,4.67
+Eclectic,Reign,Financial District,100 Front St W,416.368.2511,4.50
+Eclectic,Sash Restaurant,Yonge & St. Clair,1133 Yonge Street,Not Found,4.11
+Eclectic,World Food Market,Yonge & Dundas,335 Yonge Street,Not Found,4.00
+Eclectic,Mildred's Temple Kitchen,Liberty Village,85 Hanna Avenue Suite 104,416.588.5695,4.00
+Eclectic,Aviator,Danforth East,1458 Danforth Avenue,647.348.2680,4.00
+Eclectic,Ten Restaurant,Brockton Village,1132 College Street,416.538.3810,5.00
+Eclectic,Cru Restaurant,Financial District,100 Yonge Street,416.901.0211,3.86
+Eclectic,Annex Food Hall,Annex,384 Bloor St. West,Not Found,4.75
+Eclectic,Arthur's Restaurant,Yonge & St. Clair,12 St Clair Ave E,647.348.7000,4.33
+Eclectic,Annex Commons,Annex,296 Brunswick Ave.,647.277.1179,-
+Eclectic,Louix Louis,Financial District,325 Bay Street,416.637.5550,4.00
+Eclectic,Pastiche,Ossington,59 Ossington Ave.,647.508.5959,5.00
+Eclectic,Union Station Food Court,Financial District,65 Front Street West,Not Found,1.00
+Eclectic,Fleets Food,Yonge & College,369 Church St.,416.977.9924,5.00
+Eclectic,Grand Bizarre,Harbourfront,15 Saskatchewan Road,416.595.9998,3.00
+Eclectic,Casa La Palma,Dundas West,849 Dundas St. West,416.368.4567,3.67
+Eclectic,Cactus Club Sherway Gardens,Etobicoke,Unit 700 - 25 The West Mall,416.621.0203,4.67
+Eclectic,Sara Restaurant,King West,98 Portland St,416.985.5721,4.20
+Eclectic,Frilu,Thornhill,Not Found,Not Found,5.00
+Eclectic,Founder,Dundas West,1282 Dundas St W,647.348.1282,4.13
+Eclectic,Drake Mini Bar,Financial District,150 York Street,416.900.0992,4.00
+Eclectic,Chica's Nashville Hot Chicken,Junction,Not Found,Not Found,4.79
+Eclectic,Harbour Eats by Mercatino,South Core,1 York St,416.792.9013,3.50
+Eclectic,Assembly Chef's Hall,Financial District,111 Richmond St. West,647.557.5993,4.11
+Eclectic,The Civic,Riverside,106 Broadview Ave,416.362.8439,3.00
+Eclectic,Mrs. Robinson,Little Italy,574 College Street West,Not Found,3.80
+Eclectic,Farmr,King East,140 The Esplanade,416.901.8676,4.63
+Eclectic,Kost,Entertainment District,80 Blue Jays Way,416.551.2800,3.50
+Eclectic,The Rooftop at the Broadview Hotel,Riverside,106 Broadview Ave,416.362.8439,4.20
+Eclectic,Grey Gardens,Kensington Market,199 Augusta Ave ,647.351.1552,4.30
+Eclectic,Drake Commissary,Junction Triangle,128 Sterling Rd.,416.432.2922,3.55
+Ethiopian,Selam Vegan,Bloorcourt,812b Bloor St W,647.344.7225,5.00
+Ethiopian,Rendez-Vous,Danforth East,1408 Danforth Avenue,416.469.2513,4.29
+Ethiopian,Blue Nile,Danforth East,1260 Danforth Ave,416.465.9454,4.50
+Ethiopian,Pero Restaurant,Bloorcourt,812 Bloor St. W,416.915.7225,3.75
+Ethiopian,Nunu Ethiopian Fusion,West Queen West,1178 Queen Street West,647.351.6868,5.00
+Ethiopian,Ethiopian House,Yonge & Wellesley,4 Irwin Avenue,416.923.5438,2.91
+Ethiopian,Lalibela Ethiopian on Bloor,Bloorcourt,869 Bloor Street West,416.535.6615,3.75
+Ethiopian,African Palace,Bloorcourt,977 Bloor St. West,416.588.7819,3.50
+Ethiopian,Enat Buna,Moss Park,175 Queen St. East,416.901.2928,5.00
+Ethiopian,Lucy Ethiopian Kitchen,Danforth East,1690 Danforth Avenue,416.406.0534,-
+Ethiopian,Wazema,Danforth East,1360 Danforth Ave.,416.466.5713,-
+Ethiopian,Flavours of Sheba,St. Clair West,1310 St Clair Ave W,416.792.1449,-
+Ethiopian,Hirut,Danforth East,2050 Danforth Ave,416.551.7560,-
+Ethiopian,Lalibela Ethiopian (Danforth),Danforth East,1202 Danforth Avenue,416.645.0486,-
+Ethiopian,Shalom,Cabbagetown,587 Parliament Street,416.964.7271,3.00
+Ethiopian,Merhaba Bar & Cafe,Danforth East,Not Found,Not Found,-
+Ethiopian,Desta Market,Danforth,843 Danforth Ave.,416.850.4854,-
+Ethiopian,Sora Ethiopian,Danforth East,1383 Danforth Avenue,647.347.6722,-
+Ethiopian,Al-Aruba,Etobicoke,383 Albion Rd.,416.746.4089,5.00
+Ethiopian,Salaama Hut,Etobicoke,1987 Kipling Ave,416.744.7413,5.00
+Ethiopian,Bilal Restaurant,Etobicoke,321 Rexdale Blvd,416.745.9963,5.00
+Ethiopian,Abyssinia,Danforth East,884 Danforth Avenue,416.979.9746,5.00
+Filipino,Coffee In,Scarborough,2181 Lawrence Ave E.,647.348.7282,4.75
+Filipino,Jollibee Wilson,North York,79 Billy Bishop Way,Not Found,3.00
+Filipino,Lovely Pao,North York,756 Wilson Ave.,647.348.8856,4.67
+Filipino,Boodle Fight,Danforth East,937 Danforth Ave,416.901.8460,4.60
+Filipino,Jollibee Toronto,Scarborough,15 William Kitchen Rd,647.953.1100,4.75
+Filipino,Max's Restaurant,Scarborough,707 Markham Road,416.431.4960,5.00
+Filipino,Wilson's Haus of Lechon,North York,365 Wilson Ave,416.792.7548,4.82
+Filipino,Sampaguita Village,North York,322 Wilson Avenue,416.630.2122,4.17
+Filipino,Casa Manila,Don Mills,879 York Mills Rd,416.443.9654,3.38
+Filipino,Tinuno,St. James Town,31 Howard St.,647.343.9294,4.50
+Filipino,Lamesa,St. Clair West,634 St. Clair Ave. W,647.343.1110,3.78
+Filipino,Pinoy Waffles,Markham,4300 Steeles Ave. E. Markham,416.402.8219,4.00
+Filipino,Remely's,Scarborough,4830 Sheppard Ave E,416.609.9661,3.67
+Filipino,Tocino Boys,Ossington,214 Ossington Ave.,416.503.8703,5.00
+Filipino,Lola's Kusina,Etobicoke,96 Rexdale Blvd.,416.792.4742,4.50
+Filipino,Max's Restaurant (North York),North York,1520 Steeles Ave W,289.597.9433,4.33
+Filipino,Ritz Restaurant (Donlands),East York,310 Dondlands Avenue,416.421.4696,-
+Filipino,Kanto by Tita Flips,Dundas West,707 Dundas St W.,416.893.0737,5.00
+Filipino,Islas Filipino,Parkdale,1690 Queen Street West,416.533.0777,4.00
+Filipino,Lechon Republik,Eglinton West,1 Romar Crescent,647.340.0807,5.00
+Filipino,Jesse Jr. (Scarborough),Scarborough,1060 Kennedy Road,416.701.9353,2.00
+Filipino,Sun Barbecue Company,Etobicoke,296 Browns Line,416.253.9112,5.00
+Filipino,Dbarkadz Filipino Cuisine,Scarborough,1217 Ellesmere Rd.,647.343.6093,4.33
+Filipino,Barrio Fiesta ,Scarborough,11 Lapsley Rd,416.754.4677,4.25
+Filipino,Bella's Lechon,Scarborough,"1145 Morningside Ave, Unit #17&18",416.282.3288,5.00
+Filipino,Bangku,Avenue and Lawrence,3028 Bathurst Street,647.975.3028,5.00
+Filipino,Chelsea's,Pape Village,1027 Pape Avenue,647.346.3588,4.33
+Filipino,Happy Tummy Filipino,Scarborough,2950 Birchmount Rd.,647.347.8838,4.00
+Filipino,Mayette's,Danforth East,3331 Danforth Ave.,416.463.0338,4.00
+Filipino,Alan's Filipino Restaurant,Scarborough,2655 Lawrence Ave East,416.770.5852,3.00
+Filipino,Filipino in Toronto,Oakwood Village,1859 Eglinton Avenue West,416.780.0015,-
+Filipino,Batibot,Parkdale,1311 King St. W,Not Found,5.00
+Filipino,Sun-Up Barbecue Co.,North York,3411 Bathurst Street,416.789.5023,5.00
+Filipino,Tagpuan,Scarborough,1740 Victoria Park Avenue,416.615.0893,3.00
+Filipino,Marcelina's,North York,355 Wilson Avenue,416.635.6812,1.00
+Filipino,Republika RestoBar and Grill,North York,288-A Wilson Ave.,416.633.1288,-
+Filipino,Tala,Baldwin Village,294 Dundas St W,416.792.5000,-
+Filipino,Kabalen,North York,3778 Bathurst Street,647.352.7222,-
+Filipino,Jollytops,North York,288 Wilson Avenue,416.633.9233,-
+Filipino,Dalisay,North York,800 Steeles Avenue West,905.597.8545,-
+French,Bernhardt's,West Queen West,202 Dovercourt Road,416.530.0008,4.50
+French,Pompette,Little Italy,597 College Street,416.516.1111,3.29
+French,Lapinou,King West,642 King Street West,416.479.4414,4.50
+French,Le Conciliabule,Little India,1300 Gerrard St E,437.981.1800,4.86
+French,Faim De Loup,Little Italy,940 College St.,416.901.3246,4.80
+French,Dreyfus,Harbord Village,96 Harbord St.,416.323.1385,4.33
+French,Batifole,East Chinatown,744 Gerrard Street East,416.462.9965,4.00
+French,Maison Selby,St. James Town,592 Sherbourne St.,647.943.1676,4.56
+French,Laissez Faire,King West,589 King St. West,647.508.5088,4.11
+French,Coffee Oysters Champagne,Entertainment District,214 King St. West,416.408.4044,4.32
+French,La Palette,Queen West,492 Queen St. West,416.929.4900,3.68
+French,Le Swan,West Queen West,892 Queen St W,416.536.4440,4.29
+French,FK,St. Clair West,770 St. Clair Ave. W,416.551.9731,4.64
+French,Paris Paris,Dundas West,1161 Dundas St W,416.535.5656,3.30
+French,Aloette,Queen West,163 Spadina Ave,416.260.3444,4.00
+French,Gare de l'Est,Leslieville,1190 Dundas St. East,416.792.1626,3.91
+French,Cafe Cancan,Harbord Village,89 Harbord St.,647.341.3100,4.00
+French,Auberge du Pommier,North York,4150 Yonge St.,416.222.2220,4.36
+French,La Banane,Ossington,227 Ossington Ave.,416.551.6263,4.25
+French,Jules Bistro (Queen Street),West Queen West,924 Queen St W,416.533.5454,4.75
+French,Nord Bistro,Annex,406 Dupont St,416.925.6673,5.00
+French,Greta Solomon's,Leslieville,1118 Queen St. E,647.347.8640,4.50
+French,Lavelle,King West,627 King St W,647.347.9353,3.60
+French,Le Baratin,Brockton Village,1600 Dundas St. W.,416.534.8800,4.75
+French,Carens Rosedale,Rosedale,1118 Yonge St.,647.352.8111,-
+French,Alo,Queen West,163 Spadina Ave.,416.260.2222,2.58
+French,Cluny,Distillery District,35 Tank House Ln.,416.203.2632,3.79
+French,East Thirty Six,King East,36 Wellington St. E,647.350.3636,4.00
+French,Roux,Junction,2790 Dundas St W,647.343.3600,3.50
+French,Luma,Entertainment District,330 King St. W,647.288.4715,3.63
+French,Le Paradis,Annex,166 Bedford Rd.,416.921.0995,4.00
+French,Midi Bistro,Baldwin Village,168 McCaul Street,416.977.2929,-
+French,Le Select Bistro,King West,432 Wellington Street West,416.596.6405,3.81
+French,Chabrol,Yorkville,90 Yorkville Ave.,416.428.6641,3.90
+French,Sassafraz,Yorkville,100 Cumberland Street,416.964.2222,3.58
+French,Jules Bistro & Cafe,Queen West,147 Spadina Avenue,416.348.8886,4.80
+French,Cafe Boulud,Yorkville,60 Yorkville Ave.,416.964.0411,2.60
+French,Jacques Bistro du Parc,Yorkville,126 Cumberland Street ,416.961.1893,3.29
+French,Biff's Bistro,Financial District,33 Yonge St.,416.860.0086,3.67
+French,dbar,Yorkville,60 Yorkville Avenue,416.963.6010,-
+Gelato,L'Arc en Ciel,Little Italy,376 College Street,416.968.7112,4.29
+Gelato,Death in Venice Gelato,Dundas West,1418 Dundas St. West,416.551.7199,3.57
+Gelato,Piccolina Gelato,King West,85 Portland St,416.881.1683,4.33
+Gelato,La Paloma,Corso Italia,1357 St. Clair Avenue West,416.656.2340,3.82
+Gelato,Futura Granita + Gelato,St. Clair West,964 St. Clair Ave West,Not Found,5.00
+Gelato,Kekou Gelato (Queen West),Queen West,394 Queen St. W. ,416.516.0637,4.40
+Gelato,Lola's Gelato,Etobicoke,16 Brookers Lane,416.351.8148,5.00
+Gelato,Grinning Face,Cabbagetown,540 Parliament Street,416.920.4444,-
+Gelato,Lick It Gelato,Harbourfront,250 Queens Quay W,647.351.7177,-
+Gelato,Froshberg Gelato (Urban Eatery),Yonge & Dundas,220 Yonge Street ,416.598.8560,4.50
+Gelato,Ice 'n Cake,Don Mills,30 Clock Tower Road,416.444.2100,3.60
+Gelato,Hollywood Gelato,Bayview and Leaside,1640 Bayview,416.544.9829,4.27
+Gelato,Hotel Gelato,Yonge & Eglinton,532 Eglinton Avenue West,416.932.2663,4.75
+Gelato,Punto Gelato,Yonge & Eglinton,2076 Yonge Street,647.346.0125,4.29
+Gelato,Dolce Gelato,Little Italy,697 College Street,416.915.0756,4.00
+Gelato,Kekou Gelato (Baldwin Village),Baldwin Village,13 Baldwin St.,416.792.8858,4.25
+Gelato,Dolce Gelato (Kensington),Kensington Market,234 Augusta Ave.,416.519.9995,3.25
+Gelato,Sicilian Sidewalk Cafe,Little Italy,Not Found,Not Found,4.25
+Gelato,Dolce Gelato (Danforth),Danforth,414 Danforth Avenue,416.546.2148,5.00
+Gelato,Touti Gelati (Queens Quay),Harbourfront,550 Queens Quay West,647.800.4613,5.00
+Gelato,Punto Gelato Yorkville,Yorkville,146 Cumberland St.,416.792.6620,5.00
+Gelato,Gelato Gelato (Woodbridge),Woodbridge,3650 Langstaff Rd,905.851.0400,-
+Gelato,Food Palace Gelato,Queen West,217 Bathurst St.,647.351.0988,5.00
+Gelato,The Gelato Shop,Yorkville,29 Bellair St,416.934.9292,3.00
+Gelato,Touti Gelati and Cafe (Beaches),Beaches,1865 Queen St. E.,416.301.1454,-
+Gelato,Your Gelato,Yonge & Lawrence,3184 Yonge St,647.230.5434,5.00
+Gelato,Nani's Gelato,Yonge & Bloor,6 Charles St E,Not Found,4.50
+Gelato,XO Gelato,Mount Pleasant,647 Mount Pleasant Rd.,416.488.2663,5.00
+Gelato,Chavo Gelato,Harbourfront,235 Queen's Quay W,Not Found,-
+Indian,Adda Bistro,Moss Park,364 Queen St E,647.393.3164,5.00
+Indian,Indian Roti House,Harbourfront,256 Queens Quay West,416.260.6666,4.29
+Indian,Naan & Chai,West Queen West,712 Queen St. West,416.366.6226,4.44
+Indian,Ruchi Takeout,Scarborough,3580 McNicoll Ave,416.412.0330,5.00
+Indian,Popa,North York,2901 Bayview Ave,647.123.4567,4.50
+Indian,Charminar,Scarborough,925 Warden Ave,416.285.7774,3.75
+Indian,Tadka,Etobicoke,666 The Queensway,416.546.5388,4.50
+Indian,South Indian Dosa Mahal,Roncesvalles Village,9 Roncesvalles Ave,647.341.8553,4.00
+Indian,Mr. John's Kerala Kitchen,Scarborough,1850 Ellesmere Rd.,416.439.8600,4.33
+Indian,Mumbai Express,Scarborough,1878 Kennedy Road,647.344.7377,4.17
+Indian,Ambiyan,Yonge & St. Clair,1560 Yonge St.,416.792.5656,4.00
+Indian,Little India,Queen West,255 Queen Street West,416.205.9836,4.41
+Indian,Good Karma,Riverside,689 Queen St. E.,416.551.6152,4.50
+Indian,Mayabazar,Scarborough,Not Found,Not Found,5.00
+Indian,Karahi Boys,Mississauga,5955 Latimer Dr. #5,905.826.2827,3.50
+Indian,Banjara,Bloorcourt,796 Bloor Street West,416.963.9360,4.34
+Indian,Chaska Express,Yonge & Dundas,595 Bay St,647.475.1278,5.00
+Indian,Cumin Kitchen,Danforth East,1820 Danforth Avenue,647.748.5522,4.29
+Indian,Chadani,King East,51 Colborne St,647.748.4090,4.67
+Indian,Brar Sweets,Etobicoke,2646 Islington Avenue,416.745.4449,5.00
+Indian,Karahi Point,North York,2201 Finch Ave W,416.749.2997,4.83
+Indian,Mantra,Don Mills,2 O'Neill Rd.,647.748.4678,4.83
+Indian,Indilicious,Junction,3358 Dundas St. West,416.769.4270,5.00
+Indian,Babu,Scarborough,4800 Sheppard Ave East,416.298.2228,4.00
+Indian,A-One Catering,Mississauga,7875 Tranmere Dr,905.677.9121,5.00
+Indian,Khau Gully,Yonge & Eglinton,Not Found,Not Found,4.47
+Indian,Canbe Foods,Scarborough,1760 Ellesmere Rd,416.298.2219,3.44
+Indian,Zeerah,Mississauga,3050 Artesian Drive,905.569.7916,4.17
+Indian,Aanch,Entertainment District,Not Found,Not Found,4.50
+Indian,Gasa Restaurant,Markham,50 New Delhi Dr,905.471.6300,5.00
+Indian,Udupi Palace,Little India,Not Found,Not Found,4.67
+Indian,La Sani Grill,Scarborough,2058 Ellesmere Rd,416.481.7866,3.75
+Indian,Kairali,Scarborough,1210 Kennedy Rd.,416.909.0994,4.33
+Indian,Leela Indian Food Bar,Junction,3108 Dundas St W,Not Found,4.46
+Indian,Lahore Tikka House,Little India,1365 Gerrard Street East,416.406.1668,3.32
+Indian,Colaba Junction,Yonge & College,801 Bay St,416.646.8800,-
+Indian,Lageez,Scarborough,641 Pharmacy Ave,416.285.7999,4.33
+Indian,Everest Hakka House,Etobicoke,2356 Lake Shore Boulevard West,416.640.1015,4.67
+Indian,Maurya East Indian Cuisine,Etobicoke,2481 Lake Shore Blvd W,647.748.6001,4.43
+Indian,Tich Indian,Etobicoke,2314 Lake Shore Blvd W,647.349.8424,4.50
+Japanese,Matsuda Japanese Grill House,Scarborough,4810 Sheppard Avenue East,647.929.9939,4.50
+Japanese,Omusubi Bar Suzume,Dundas West,707 Dundas St W,Not Found,-
+Japanese,Yuugi Izakaya,Baldwin Village,49 Baldwin Street,647.343.8282,5.00
+Japanese,Naru Izakaya,Yonge & College,399 Church Street,647.748.8988,5.00
+Japanese,Muni Robata,Queen West,30 St Patrick St,416.340.0472,4.50
+Japanese,Ikkousha Ramen Chicken,Queen West,257 Queen St West,416.979.0257,4.69
+Japanese,Ronin Izakaya,Baldwin Village,39 Baldwin St.,416.977.8808,4.75
+Japanese,Sansotei Ramen,King East,30 Adelaide St. East,416.703.1980,2.86
+Japanese,Yonge Bistro,North York,5533 Yonge St.,647.340.5533,4.80
+Japanese,Kyoto Katsugyu,Yonge & Dundas,134 Dundas St E.,Not Found,4.50
+Japanese,Kome Shokudo,Richmond Hill,Not Found,Not Found,5.00
+Japanese,Zen Sanuki Udon,Scarborough,3720 Midland Avenue,416.881.8899,4.00
+Japanese,Akimitsu,Yonge & Dundas,41 Elm St,Not Found,3.33
+Japanese,Konjiki Ramen Downtown,Yonge & Dundas,41 Elm St.,416.519.6794,4.14
+Japanese,Raku Toronto,Queen West,456 Queen St W,416.546.9325,3.50
+Japanese,Hakata Shoryuken Ramen on Queen,Queen West,225 Queen St. West,416.519.8940,4.14
+Japanese,Hakata Ikkousha Ramen,Queen West,247 Queen St. W.,416.892.0249,4.87
+Japanese,You Don Ya,Little Tokyo,108 Dundas St. W.,647.748.9399,3.86
+Japanese,The Shozan Room,Ossington,164 Ossington Avenue,647.478.6164,5.00
+Japanese,Kobe Teppanyaki & BBQ,Markham,8241 Woodbine Ave Unit 1,905.940.5111,4.67
+Japanese,Zakkushi,Queen West,620 Queen St West,416.364.5252,4.75
+Japanese,Goen Yakiniku,Richmond Hill,328 Hwy 7,905.597.0819,3.40
+Japanese,Tokyo Grill at North York,North York,5175 Yonge St.,647.748.6700,3.33
+Japanese,Sakai Bar,Brockton Village,1576 Dundas St W.,Not Found,4.89
+Japanese,Nobuya Ramen,Etobicoke,285 Royal York Rd,416.201.9491,4.62
+Japanese,Ryus Noodle Bar,Danforth,786 Broadview Avenue,647.344.9306,4.33
+Japanese,Yukashi,Mount Pleasant,643a Mt Pleasant Rd.,416.489.6993,5.00
+Japanese,Kingyo Izakaya,Cabbagetown,51B Winchester St.,647.748.2121,4.45
+Japanese,Ramen Misoya,West Queen West,646 Queen St W.,416.594.6476,3.70
+Japanese,Santouka Ramen on Bloor,Annex,515 Bloor St W.,647.346.6350,2.75
+Japanese,Tondou Ramen,Little Italy,596 College St,416.588.8317,4.75
+Japanese,Shinta Japanese BBQ,Richmond Hill,280 West Beaver Creek Rd,905.597.0305,4.00
+Japanese,Ramen Isshin (Assembly Chef's Hall),Financial District,111 Richmond Street West,Not Found,3.56
+Japanese,Akira Back,Entertainment District,80 Blue Jays Way,437.800.5967,4.29
+Japanese,Konjiki Ramen,North York,5051 Yonge St,647.350.7766,3.82
+Japanese,Gyubee (Bloor),Annex,335 Bloor St. W,416.551.9767,3.20
+Japanese,Omai,Baldwin Village,3 Baldwin St,647.341.7766,4.10
+Japanese,Onnki Donburi,Yonge & Bloor,40 Hayden Street,Not Found,4.88
+Japanese,Nome Izakaya,North York,4848 Yonge Street,647.347.7937,3.33
+Japanese,Ramen Raijin,Yonge & Wellesley,24 Wellesley Street,647.348.0667,3.75
+Korean,Lims Chicken Toronto,Koreatown,623 Bloor St W,416.537.8288,4.00
+Korean,Boonsik,Little Italy,50 Clinton St,416.551.1550,4.50
+Korean,Don Chon Korean BBQ & Wings,Etobicoke,834 The Queensway,416.251.2227,4.50
+Korean,Dasoni,St. Clair West,630 St Clair Ave. W,647.343.2878,4.50
+Korean,Chung Chun Rice Dog,North York,11 Byng Ave.,Not Found,4.50
+Korean,Danmuji,Thornhill,"5 Glen Cameron Rd., Unit #7",905.709.9902,4.00
+Korean,Myeongdong Gyoza Kalguksu,Thornhill,"7117 Bathurst St., Unit #106",905.597.3911,3.00
+Korean,Dakgogi on Wellesley,Yonge & Wellesley,25 Wellesley St. E.,647.350.1999,5.00
+Korean,Busan Galmaegi,North York,5935 Yonge St,416.901.3231,5.00
+Korean,Lee Nam Jang,North York,4846 Yonge Street,416.512.1345,4.00
+Korean,Chicken in the Kitchen,North York,5600 Yonge St,416.224.5509,3.67
+Korean,Hawk & Chick,Dundas West,1426 Dundas St. W.,Not Found,4.33
+Korean,Mezu,Dundas West,Not Found,Not Found,4.91
+Korean,Daldongnae,North York,6034 Yonge St.,416.226.6034,3.36
+Korean,Piggy's Restaurant,Thornhill,5 Glen Cameron Road,905.597.1522,4.25
+Korean,Ssangkye Braised Chicken House,Thornhill,100 Steeles Ave West,905.597.7288,4.33
+Korean,MyMy Chicken,Annex,394 Bloor St. West,647.748.8868,3.75
+Korean,Bi Bim Bap (College),Little Italy,598 College St,416.616.2028,4.50
+Korean,Buk Chang Dong Soon Tofu,Koreatown,691 Bloor St. West,416.537.0972,4.14
+Korean,Uncle Mikey's,Brockton Village,1597 Dundas St. W.,416.537.8973,4.67
+Korean,Chaban,Etobicoke,872 The Queensway,416.255.8222,5.00
+Korean,The Guksu and Noodle,Thornhill,"7771 Yonge St, Thornhill, ON L3T 2C4",905.771.7777,4.67
+Korean,The Fry,Annex,524 Bloor St West,647.352.0999,4.40
+Korean,Korean Village Restaurant,Koreatown,628 Bloor Street West,416.536.0290,4.20
+Korean,Cho Sun Ok,Thornhill,7353 Yonge St.,905.707.8426,3.60
+Korean,Cook's Fine Food Mart,North York,"15 Finch Ave. West, Unit B",416.226.2324,5.00
+Korean,Han Ba Tang,North York,Not Found,Not Found,4.33
+Korean,Barrio Coreano,Koreatown,642 Bloor St. W,416.901.5188,4.13
+Korean,Tofu Village,Koreatown,681 Bloor St. West,647.345.3836,3.25
+Korean,Oddseoul,Ossington,90 Ossington Avenue,Not Found,4.19
+Korean,Song Cook's,North York,72 Steeles Avenue West,647.678.8000,3.77
+Korean,Kimchi Korea House,Little Tokyo,149 Dundas Street W,416.599.1989,3.50
+Korean,Bryan's BBQ,Koreatown,606 Bloor Street W,416.531.3544,4.50
+Korean,Charcoal and Salt,North York,5523 Yonge Street,416.551.1668,-
+Korean,The Owl,Koreatown,700 Bloor Street West,416.538.3030,3.88
+Korean,Korea House,Koreatown,666 Bloor St. West,416.536.8666,3.60
+Korean,Buk Chang Dong Soon ToFu (Yonge & Finch),North York,5445 Yonge Street,647.430.7458,4.00
+Korean,Home of Hot Taste,Thornhill,5 Glen Cameron Road,905.881.0230,4.00
+Korean,Bi Bim Bap,Eglinton West,950 Eglinton Ave West,416.787.7423,4.50
+Korean,Sunrise House,Koreatown,661 Bloor Street West,416.535.1019,-
+Mediterranean,Reyna on King,Corktown,354 King Street East,416.546.3155,4.17
+Mediterranean,Madame Levant,Leslieville,821 Gerrard St. E.,416.729.0503,4.29
+Mediterranean,Babel,Don Mills,305 York Mills Rd,647.475.6240,3.67
+Mediterranean,Aviv Immigrant Kitchen,St. Clair West,779 St Clair Ave W,416.922.2433,4.50
+Mediterranean,Petros82,Harbourfront,111 Princes' Boulevard,647.475.9279,3.78
+Mediterranean,Byblos Uptown,Yonge & Eglinton,2537 Yonge St.,416.487.4897,3.70
+Mediterranean,Luna Junction,Junction,2800 Dundas St W,416.762.4116,4.83
+Mediterranean,Bonafide,Kensington Market,209 Augusta Ave,647.352.1899,5.00
+Mediterranean,Constantine,Yonge & Bloor,15 Charles St. East,647.475.4436,3.62
+Mediterranean,Plancha,King East,Not Found,Not Found,3.17
+Mediterranean,Ricarda's,Entertainment District,134 Peter St.,416.304.9134,3.77
+Mediterranean,Bar Reyna,Yorkville,158 Cumberland St. ,647.748.4464,4.00
+Mediterranean,Folia Grill,Pape Village,1031 Pape Ave.,416.424.2800,4.75
+Mediterranean,Mashu Mashu,Forest Hill Village,387 Spadina Rd.,416.840.0848,4.75
+Mediterranean,Reyna,Financial District,111 Richmond Street West,647.557.5993,4.67
+Mediterranean,Rikkochez,Danforth,341 Danforth Ave,416.463.9000,4.60
+Mediterranean,Mykonos Mediterranean Grill,Rosedale,881 Yonge Street,416.963.8444,3.00
+Mediterranean,Crowded House Restaurant,Leslieville,1161 Queen St. East,416.406.0400,5.00
+Mediterranean,Suq Mediterranean Kitchen,North York,2 Champagne Dr.,416.661.8998,5.00
+Mediterranean,Positano,Mount Pleasant,633 Mount Pleasant Road,416.932.3982,5.00
+Mediterranean,Me Va Me (Mt. Sinai),Yonge & College,600 University Ave,Not Found,4.00
+Mediterranean,Seraphia,Scarborough,2979 Kingston Rd.,416.264.8951,3.00
+Mediterranean,Pita House,North York,40 Carl Hall Rd.,Not Found,-
+Mediterranean,The Pomanar,Yonge & Dundas,65 Dundas St. East,416.362.9200,2.67
+Mediterranean,Nil's Turkish Kitchen,Dundas West,707 Dundas Street West,647.717.9610,-
+Mediterranean,Palmyra Mediterranean House,Mississauga,"5555 Eglinton Avenue W., Unit #110",416.626.2345,-
+Mediterranean,Wild Fire Grill (Harbord),Harbord Village,81 Harbord St,Not Found,-
+Moroccan,Sultan's Tent,King East,49 Front Street East,416.961.0601,4.00
+Moroccan,Morocco House,Etobicoke,876 Brown's Line,416.519.2777,4.17
+Oysters,Oyster Boy,West Queen West,872 Queen Street West,416.534.3432,3.93
+Oysters,Rodney's Oyster House,King West,469 King Street West,416.363.8105,4.06
+Oysters,Pure Spirits Oyster House,Distillery District,55 Mill Street,416.361.5859,4.11
+Oysters,John and Sons Oyster House (Bay St.),Financial District,56 Temperance St,416.703.1111,3.00
+Oysters,Zee Grill,Mount Pleasant,641 Mt Pleasant Rd,416.484.6428,-
+Persian,Herby Restaurant,Danforth,397 Danforth Avenue,416.466.9933,4.00
+Persian,Tabriz Persian Cookhouse,Yonge & Wellesley,995 Bay Street,416.922.2017,4.80
+Persian,Takht-e Tavoos,Brockton Village,1120 College St.,647.352.7322,4.33
+Persian,North Restaurant (Shomal),North York,100 Steeles Ave. West,905.881.7704,2.63
+Persian,Sheherzade,Little Italy,422 College St.,416.929.9222,5.00
+Persian,Darband Restaurant,North York,879 York Mills Road,416.445.1777,4.33
+Persian,Queen of Persia,St. Clair West,672 St Clair Avenue West,416.651.5500,3.80
+Persian,Darbar,Yonge & Eglinton,288 Eglinton Avenue West,416.519.4545,4.50
+Persian,Shatter Abbas,Thornhill,8141 Yonge St,905.731.5299,4.00
+Persian,Darvish Restaurant,Yonge & Wellesley,508 Yonge Street,416.929.8893,5.00
+Persian,Gol Inc.,North York,5 Spring Garden Avenue,416.223.3465,3.60
+Persian,Cottage Pizza and Sandwich,North York,"15 Northtown Way, Unit #24",647.700.5430,5.00
+Persian,Persian Palace,Richmond Hill,10711 Yonge St.,905.737.4900,4.50
+Persian,Toranj Fine Foods,North York,4750 Yonge St .,416.225.3222,5.00
+Persian,Altona Kabob,North York,6099 Yonge Street,647.348.1067,4.00
+Persian,Darbar (Avenue),Avenue and Lawrence,2015 Avenue Rd,647.351.4242,3.67
+Persian,Shabestan Cafe & Restaurant,North York,6123 Yonge St.,416.222.3335,3.00
+Pizza,Juniors,Roncesvalles Village,Not Found,Not Found,5.00
+Pizza,Mark's Pizzas,Scarborough,371 Old Kingston Road,416.990.8034,5.00
+Pizza,Gianna's,Parkdale,1554 Queen St W,416.535.7777,4.00
+Pizza,Revolver Pizza Co.,Etobicoke,388 Royal York Rd.,416.252.2323,4.92
+Pizza,Conzo's,Bloordale Village,1279 Bloor St W,Not Found,3.83
+Pizza,The Fourth Man in the Fire,Dundas West,832 Dundas St W,416.792.3473,4.44
+Pizza,Bar Poet,West Queen West,1090 Queen St W,647.340.1090,4.69
+Pizza,North of Brooklyn on Rogers Road,Rogers Road,511 Rogers Road,647.358.4800,4.00
+Pizza,The Parlour Toronto,King West,642 King St W,416.583.2642,4.29
+Pizza,DeePizz,Little Italy,384 College St,416.925.1555,4.33
+Pizza,Jessy's Pizza,Roncesvalles Village,2200 Dundas St W,416.530.0999,4.00
+Pizza,Chito's Pizza,North York,3616 Dufferin St.,416.631.0101,4.80
+Pizza,Blondies Pizza,Leslieville,1555 Dundas Street East,437.341.1555,3.35
+Pizza,Maker Pizza (Avenue Road),Avenue and Lawrence,1537 Avenue Road,416.782.2000,3.82
+Pizza,Defina Woodfired,Junction Triangle,1485 Dupont St,416.536.4788,4.50
+Pizza,General Assembly Pizza,Entertainment District,331 Adelaide St W,Not Found,4.29
+Pizza,Pie Bar,Harbourfront,207 Queens Quay W,647.341.7221,4.80
+Pizza,Conspiracy Pizza,Bayview and Leaside,176 Wicksteed Avenue,647.694.3327,4.40
+Pizza,Pizza Shab,North York,"3 Byng Ave, North York",647.477.7288,4.71
+Pizza,Salt & Tobacco,Cabbagetown,521 Parliament St.,Not Found,5.00
+Pizza,Pizzeria Oro di Napoli,Etobicoke,Not Found,Not Found,4.86
+Pizza,Village Pizza,Bloorcourt,750 Dovercourt Rd,416.748.7737,4.27
+Pizza,Pi Co,Yorkville,1200 Bay St.,647.346.7428,4.00
+Pizza,The Real McCoy,Scarborough,1033 Markham Road,416.439.6804,4.75
+Pizza,Maker Pizza,Chinatown,59 Cameron St.,416.782.2000,3.77
+Pizza,Blaze Pizza,Yonge & Dundas,10 Dundas St. East ,416.979.3626,4.71
+Pizza,Abruzzo Pizza,Richmond Hill,9010 Yonge St.,905.881.8222,4.60
+Pizza,Descendant Pizza,Leslieville,1168 Queen St. East,647.347.1168,4.00
+Pizza,Apiecalypse Now! on Bloor,Koreatown,735 Bloor St. West,416.516.4555,4.50
+Pizza,Dante's Pizzeria,Thornhill,8700 Dufferin St.,905.761.1115,1.00
+Pizza,Lambretta Roncesvalles,Roncesvalles Village,89 Roncesvalles Ave.,416.551.9925,3.00
+Pizza,Ciao Roma,Woodbridge,28 Roytec Rd L4L 8E4,905.264.2121,5.00
+Pizza,Ricci's Pizzeria,Woodbridge,8401 Weston Road,905.850.8325,4.33
+Pizza,Pizzeria Libretto (University),Financial District,155 University Ave.,416.551.0433,4.00
+Pizza,Queen Margherita Pizza (Dundas West),Dundas West,772 Dundas St. West,647.748.4666,3.00
+Pizza,Bitondo Pizzeria & Sandwiches,Little Italy,11 Clinton Street,416.533.4101,4.29
+Pizza,Danforth Pizza House,Danforth,920 Danforth Avenue,416.463.4927,4.40
+Pizza,Mare Pizzeria,Kensington Market,185 Baldwin St.,647.351.2622,4.67
+Pizza,North of Brooklyn (Church),Church Wellesley Village,469 Church St.,647.980.7990,4.50
+Pizza,Pizza Nova,Scarborough,2272 Lawrence Avenue East,416.751.1200,2.20
+Poke,North Poke,Kensington Market,Not Found,Not Found,4.50
+Poke,Calii Love,Entertainment District,367 King St W,416.792.5683,3.00
+Poke,Pokito,Queen West,420 Queen St W,416.792.8808,4.79
+Poke,Poke Guys,Little Tokyo,112 Elizabeth Street,416.506.7653,4.57
+Poke,Rolltation,Little Tokyo,207 Dundas St. W.,647.351.8986,4.57
+Poke,Lawai'a Poke,King West,700 King St W,647.341.6666,5.00
+Poke,Poke Box,Financial District,36 Toronto Street,416.929.0363,4.00
+Poke,Ono Poke Bar,Liberty Village,100 Western Battery Road,416.792.8992,4.00
+Poke,Mi'Hito Sushi Laboratory on College,Little Italy,285 College St,416.929.8880,3.00
+Poke,Calii Love (Bay),Yorkville,1235 Bay St,Not Found,4.00
+Poke,Rolltation (Yonge),Yonge & Eglinton,2291 Yonge St,416.901.7655,-
+Poke,Poke Eats,North York,4750 Yonge St #118,416.792.3958,5.00
+Poke,Hoki Poke,Yonge & Wellesley,563 Yonge Street,647.350.0563,4.00
+Poke,Umami Poke,Yonge & St. Clair,1252 Yonge St.,647.715.4788,5.00
+Poke,Calii Love (Union Station),South Core,65 Front St. West,416.792.5683,4.50
+Poke,Koha Pacific Kitchen,Financial District,199 Bay St,647.350.5642,3.60
+Poke,Calii Love (Exchange Tower),Financial District,130 King St W.,416.864.6210,-
+Poke,Su & Bu Bay Adelaide Centre,Financial District,333 Bay St.,Not Found,-
+Poke,Mi’Hito Sushi Laboratory in Yorkville,Yorkville,55 Avenue Rd.,416.922.0845,-
+Portuguese,Casa Portuguesa,Castlefield Design District,682 Caledonia Rd,416.780.1112,4.67
+Portuguese,Piri Piri,Junction Triangle,1444 Dupont Street,416.536.5100,3.83
+Portuguese,Mercado Negro,St. Clair West,1370 St Clair Ave W,647.748.1370,4.83
+Portuguese,Churrasqueira Martins,Rogers Road,605 Rogers Road,416.657.4343,4.00
+Portuguese,Flor de Sal,Annex,501 Davenport Rd.,416.923.2604,3.40
+Portuguese,Rush Hour,Other,1438A Dufferin Street,416.533.4687,5.00
+Portuguese,Chiado,Little Italy,864 College Street,416.538.1910,3.50
+Portuguese,Salt Wine Bar,Ossington,225 Ossington Avenue,416.533.7258,4.00
+Portuguese,Best Portuguese Chicken,Etobicoke,942 The Queensway,416.255.7177,3.75
+Portuguese,Ilhas de Bruma,Brockton Village,1136 College St,416.538.2015,5.00
+Portuguese,Adega,Yonge & Dundas,33 Elm Street,416.977.4338,4.25
+Portuguese,Churrasco Portugril,Scarborough,1733 Eglinton Ave E.,416.261.0010,4.50
+Portuguese,Amadeu's,Kensington Market,184 Augusta Ave.,416.591.1245,3.00
+Portuguese,Lisbon By Night,Dundas West,802 Dundas St. West,416.603.6522,5.00
+Portuguese,Stop BBQ Chicken,Dovercourt Village,1216 Dufferin St.,647.345.2526,5.00
+Portuguese,Moliceiro,Ossington,217 Ossington Avenue,647.345.3019,-
+Portuguese,Unique Cafe,St. Clair West,1680 St. Clair Ave West,647.345.5551,-
+Portuguese,Banaboia Restaurant,Rogers Road,501 Rogers Road,416.654.0967,5.00
+Portuguese,Leao d'Ouro (Mississauga),Mississauga,920 Dundas St. East Mississauga,905.566.5326,4.50
+Portuguese,Canecas Sports Bar and Cafe,Rogers Road,Not Found,Not Found,-
+Portuguese,Bairrada Churrasqueira St. Clair West,Stockyards District,Not Found,Not Found,5.00
+Portuguese,Pimentas Grill,Little Italy,648 College St.,416.539.0707,-
+Portuguese,Via Norte,Little Italy,"938 College St., Toronto",647.348.1116,-
+Poutine,Potatopia Toronto,North York,"4841 Yonge St,",416.226.5151,5.00
+Poutine,The Enchanted Poutinerie,North York,730 Wilson Ave,416.901.1993,4.50
+Poutine,Smoke's Poutinerie Adelaide,King West,218 Adelaide St. West,416.599.2873,3.35
+Poutine,Nom Nom Nom Poutine,Dundas West,Not Found,Not Found,4.17
+Poutine,Smoke's Poutinerie (Liberty Village),Liberty Village,116 Atlantic Avenue,647.748.2873,5.00
+Poutine,Smoke's Poutinerie (Dundas East),Regent Park,203 Dundas Street East,416.603.2873,3.25
+Poutine,Smoke's Poutinerie (Queen and Bathurst),Queen West,578 Queen St. West,416.366.2873,2.00
+Roti,Roti Mahal,Queen West,554 Queen St W,416.546.9404,4.20
+Roti,Roti Roti,Etobicoke,Not Found,Not Found,4.78
+Roti,Matha Roti,Harbord Village,141 Harbord St,416.966.6955,5.00
+Roti,Bombay Roti,Annex,529 Bloor St W,647.352.7684,4.33
+Roti,Pam's Roti,Bloorcourt,1089 Bloor Street West,416.533.3588,4.60
+Roti,Mona's Roti,Scarborough,4810 Sheppard Ave. East,416.412.1200,4.33
+Roti,The Roti Hut,Scarborough,351 Pitfield Rd,416.298.4153,4.22
+Roti,ACR Hot Roti,Scarborough,2680 Lawrence Ave E,416.755.7806,3.00
+Roti,Danforth Roti Shop,Danforth East,2844 Danforth Avenue,416.690.1308,5.00
+Roti,Vena's Roti,Bloordale Village,1263 Bloor West,416.532.3665,4.00
+Roti,Mother India,Parkdale,1456 Queen Street West,416.588.4634,4.33
+Roti,Ali's West Indian Roti Shop,Parkdale,1446 Queen Street West,416.532.7701,4.00
+Roti,Drupati's,Etobicoke,35 Woodbine Downs Blvd,416.745.4189,3.67
+Roti,Drupati's Roti Scarborough,Scarborough,1085 Bellamy Rd,416.289.9988,3.50
+Roti,Butter Chicken Roti (West Queen West),West Queen West,"1076 Queen St. West, toronto",647.350.7684,-
+Roti,My Roti Place,Queen West,406 Queen St. W,416.366.5554,4.00
+Roti,Amma,Beaches,2014 Queen St E,416.944.1944,-
+Roti,Leila's Curry Pot & Roti Hut,North York,3420 Weston Rd,Not Found,-
+Roti,Ducky's Roti,Etobicoke,3296 Lakeshore Blvd W,416.253.5858,-
+Salad,Mad Radish Toronto,Financial District,130 King Street West,Not Found,4.50
+Salad,Two Peas Variety,Chinatown,403 Spadina Ave,416.217.1088,-
+Salad,Tractor Foods,Financial District,151 Yonge Street,Not Found,3.50
+Salad,Mary Be Kitchen,Yonge & St. Clair,21B St Clair Ave W,416.792.7596,4.76
+Salad,Palm Lane,Yorkville,55 Avenue Rd,647.349.1085,4.25
+Salad,AAamazing Salad,Kensington Market,160 Baldwin St. Unit 2,647.361.2614,4.50
+Salad,Salad Days (Yonge and Bloor),Yonge & Bloor,20 Bloor St. E,Not Found,4.00
+Salad,The Goods,Roncesvalles Village,279 Roncesvalles Avenue,647.340.4663,4.00
+Salad,Salad Days,Yorkville,2 Bloor Street W,647.436.9472,4.00
+Salad,The Simple Kitchen,Roncesvalles Village,73 Roncesvalles Ave.,416.534.5091,-
+Salad,Salad House,Yonge & Bloor,13 Hayden Street,647.352.1424,5.00
+Salad,Salus Fresh Foods,Entertainment District,101 Peter St.,416.212.2525,5.00
+Salad,Season Six,Ossington,216 Ossington Ave,437.242.5991,5.00
+Salad,Mad Radish on Yonge,Yonge & Eglinton,2293 Yonge St.,647.347.4193,5.00
+Salad,Mam Green Salad,Financial District,220 Bay St.,416.594.3330,-
+Salad,Salad Days Bay-Adelaide Centre,Financial District,333 Bay St.,Not Found,-
+Salad,iQ Food Co. (King West),King West,613 King Street W,416.901.4747,-
+Salad,Croutons,Annex,652 Spadina Ave,613.600.8016,-
+Salad,Mad Radish on Bloor,Yonge & Bloor,120 Bloor St. E,416.792.0700,5.00
+Seafood,Bar Mignonette,Dundas West,794 Dundas Street West,647.350.8999,4.67
+Seafood,Lobster Burger Bar,Entertainment District,214 King Street West,416.598.2929,4.83
+Seafood,Samaka Seafood,Mississauga,"5120 Dixie Rd., Unit #2",905.232.2992,4.50
+Seafood,Ghadir Fish Restaurant,Scarborough,1846 Lawrence Ave E,Not Found,4.33
+Seafood,Stamp's Lane,Roncesvalles Village,371 Roncesvalles Ave,416.537.7750,4.80
+Seafood,Diana's Oyster Bar,Scarborough,2105 Lawrence Avenue East,416.288.1588,4.00
+Seafood,The Boil Bar,Yonge & Wellesley,664 Yonge St.,416.515.8868,4.00
+Seafood,Buster's Sea Cove,St. Lawrence Market,St. Lawrence Market (Upper Level),416.369.9048,3.78
+Seafood,The Captain's Boil (Yonge and Finch),North York,5313 Yonge St.,647.348.7808,5.00
+Seafood,Honest Weight,Junction,2766 Dundas St. West,416.604.9992,3.00
+Seafood,Pearl Diver,King East,100 Adelaide St. E.,416.366.7827,4.00
+Seafood,Eastside Social,Leslieville,1008 Queen St. East,416.461.5663,3.80
+Seafood,Market Street Catch,King East,14 Market St.,416.363.2020,3.57
+Seafood,The Chase Toronto,Financial District,10 Temperance St.,647.348.7000,3.27
+Seafood,Miller Tavern,Yonge & Lawrence,3885 Yonge Street,416.322.5544,3.33
+Seafood,The Captain's Boil (Yonge and College),Yonge & Dundas,476 Yonge St.,647.748.2886,5.00
+Seafood,Bluffer's Restaurant,Scarborough,7 Brimley Road South,416.264.2337,3.50
+Seafood,Miller Tavern (downtown),South Core,31 Bay Street,416.366.5544,-
+Seafood,New Orleans Seafood & Steakhouse,Etobicoke,267 Scarlett Rd.,416.766.7001,4.75
+Seafood,Mermaid Fish and Grill House (St. Clair),Yonge & St. Clair,44 St Clair Ave East ,416.546.9158,5.00
+Seafood,Anglr,Leslieville,1054 Gerrard St E,416.466.6677,-
+Seafood,Fishman Wharf Seafood,Scarborough,4080 Steeles Ave. East,905.513.6666,-
+Seafood,Buster's Sea Cove (Commerce Court),Financial District,199 Bay Street,416.892.8140,1.00
+Seafood,The Captain's Boil (College),Little Italy,671 College St,416.538.8868,1.00
+Seafood,The Captain's Boil (Queen),Queen West,226 Queen St W,416.506.5123,-
+Seafood,Red Lobster,Yonge & Dundas,20 Dundas St W,416.348.8938,-
+Soup,Suup Health Bar,Yonge & College,Not Found,Not Found,4.50
+Soup,RaviSoups on Adelaide,Entertainment District,322 Adelaide West,647.435.8365,4.33
+Soup,Soup Nutsy,Financial District,222 Bay Street,416.304.1383,4.20
+Soup,Esther Queen of Soups,Yorkville,2 Bloor Street West,416.963.6667,4.00
+Soup,RaviSoups (Queen St.),West Queen West,1128 Queen St. West,416.538.7284,4.40
+Soup,RaviSoups (Dundas West),Junction Triangle,2535 Dundas St. W.,416.769.7284,4.00
+Soup,RaviSoups (College),Little Italy,492 College Street,416.923.7284,-
+Soup,RaviSoups (Parkdale),Parkdale,1533 Queen St. West,416.536.7284,-
+Spanish,Lobby Boy,Queen West,335 Queen St W,416.493.2786,4.50
+Spanish,Labora,King West,433 King St W,416.260.9993,3.44
+Spanish,Madrina,Distillery District,2 Trinity St.,416.548.8055,3.50
+Spanish,Barcelona Tavern YYZ,Liberty Village,109 Atlantic Ave,416.531.0757,3.25
+Spanish,La Paella,Leslieville,1146 Queen St. East,416.546.1055,3.88
+Spanish,Bar Raval,Little Italy,505 College St.,Not Found,3.94
+Spanish,Tapagria,Markham,230 Commerce Valley Drive East,905.771.8868,3.86
+Spanish,Barsa Taberna,St. Lawrence Market,26 Market St.,647.341.3642,4.28
+Spanish,Bar Isabel,Little Italy,797 College St,416.532.2222,3.92
+Spanish,Patria,King West,"478 King St. W, # 114",416.367.0505,2.94
+Spanish,LaVinia Restaurant,Etobicoke,2350 Lake Shore Blvd. W,647.748.2350,3.75
+Spanish,Tapas at Embrujo,Danforth,97 Danforth Avenue,647.705.7880,4.60
+Spanish,El Tenedor,Rosedale,909 Yonge Street,416.923.8888,4.00
+Spanish,Casa Barcelona,Etobicoke,2980 Bloor Street West,416.234.5858,4.00
+Spanish,La Flaca,West Queen West,920 Queen St. West,Not Found,-
+Sushi,Aburi Hana,Yorkville,102 Yorkville Avenue,647.343.8887,5.00
+Sushi,Edomae Kiyomi,Church Wellesley Village,76 Gerrard St. E.,416.979.1134,4.75
+Sushi,Oo-Kinza Fish House,Scarborough,395 Bamburgh Circle,416.493.3888,3.67
+Sushi,Rin Sushi,Richmond Hill,360 Hwy 7,289.597.2333,4.44
+Sushi,Kaito Sushi,St. Clair West,1211 St Clair Ave W.,Not Found,4.50
+Sushi,Kinoya Sushi,Entertainment District,293 King St. W.,416.599.8828,5.00
+Sushi,TORA,North York,3401 Dufferin Street,647.349.1193,4.60
+Sushi,Robo Sushi,Don Mills,865 York Mills Rd,647.748.3675,3.33
+Sushi,Gal's Sushi,Thornhill,5 Glen Cameron Road,905.597.0176,5.00
+Sushi,YuSushi,Richmond Hill,"Shoppes of the Parkway, Highway 7",905.707.8338,-
+Sushi,Project: Fish,North York,16 Park Home Ave,416.792.5250,4.00
+Sushi,Shunoko,St. Clair West,1201 St Clair Ave W,647.748.7288,4.20
+Sushi,KaKa All You Can Eat on Bay,Yonge & College,655 Bay S,416.979.3288,3.29
+Sushi,August 8,Chinatown,331 Spadina Ave,416.597.2288,3.23
+Sushi,Tachi,Financial District,Not Found,Not Found,4.57
+Sushi,Nakamori,Scarborough,2803 Eglinton Ave East,416.265.7111,5.00
+Sushi,Skippa,Harbord Village,379 Harbord St.,Not Found,4.38
+Sushi,Yuzu No Hana,Entertainment District,236 Adelaide Street West,416.205.9808,3.92
+Sushi,Japango,Little Tokyo,122 Elizabeth Street,416.599.5557,3.72
+Sushi,Toshi Ryoriten,Richmond Hill,1380 Major Mackenzie Dr East,905.737.1125,-
+Sushi,Shoushin,Yonge & Lawrence, 3328 Yonge St.,416.488.9400,2.80
+Sushi,Miku,South Core,10 Bay St.,647.347.7347,4.27
+Sushi,KaKa All You Can Eat,Markham,3235 Highway 7 East,905.604.5023,2.78
+Sushi,D & Y Sushi,Junction,2861 Dundas St. West,647.350.2996,3.67
+Sushi,Fune Japanese Restaurant,Entertainment District,100 Simcoe,416.599.3868,3.00
+Sushi,My Sushi (North York),North York,5440 Yonge St.,416.222.6463,5.00
+Sushi,Ja Bistro,Queen West,222 Richmond Street West,647.748.0222,4.50
+Sushi,Japas,Koreatown,692 Bloor St W,647.748.8847,3.75
+Sushi,Oshio Japanese Restaurant,Markham,2900 Steeles Ave East,905.881.5686,-
+Sushi,Spring Sushi,Yonge & Dundas,10 Dundas Street East,416.596.6866,4.50
+Sushi,Kimono,Yonge & Eglinton,359 Eglinton West,416.487.8660,-
+Sushi,Sashimi Island,Little Italy,635 College St.,416.535.1888,4.00
+Sushi,Umi Sushi Express,Financial District,100 Wellington St. West,416.861.9950,-
+Sushi,Nigiri-Ya,Bayview and Leaside,897 Millwood Road,416.423.4419,4.67
+Sushi,Akai Sushi,Harbord Village,168 Major St,647.340.3558,3.67
+Sushi,Mazz Sushi,Bloorcourt,993 Bloor Street West,416.536.7631,4.00
+Sushi,Lola Sushi,Yonge & Eglinton,2070 Yonge St,416.932.0290,4.67
+Sushi,Ki,Financial District,181 Bay Street,416.308.5888,3.25
+Sushi,Sushi Mugen,Leslieville,1105 Queen Street East,416.463.0114,4.40
+Sushi,Cafe Michi,Scarborough,1802 Pharmacy Avenue,416.490.9688,-
+Thai,BuaBua Thai,Bayview and Leaside,1677 Bayview Ave.,416.322.8828,4.75
+Thai,Crystal Thani,Little Italy,571 College St,416.588.4242,4.75
+Thai,Thai Nyyom,Junction Triangle,1419 Bloor St W,416.530.1463,4.83
+Thai,Chai Pochana,St. Clair West,809 St Clair Ave W,416.410.2884,3.36
+Thai,Phat Kaphrao,North York,3016b Bathurst Street,416.789.4085,4.18
+Thai,Boat King of Thai Noodles,Yonge & College,770 Bay St,416.591.8838,3.31
+Thai,Favorites,Ossington,141 Ossington Ave,416.588.3376,3.86
+Thai,Mugi,Annex,793 Bathurst St.,416.535.3886,4.67
+Thai,Koh Lipe,Baldwin Village,35 Baldwin St,416.599.9988,3.88
+Thai,Chiang Mai,Etobicoke,84 Park Lawn Rd.,647.748.8424,3.32
+Thai,Imm Thai Kitchen,Little Italy,651 College St.,416.532.6888,4.38
+Thai,Dee,Yonge & Eglinton,2013 Yonge St,647.344.8838,4.17
+Thai,Sukhothai (Canary District),Canary District,490 Front St. East,416.777.2092,4.29
+Thai,Si Lom,Church Wellesley Village,534 Church St,416.515.0888,4.00
+Thai,Sala Modern Thai,Danforth East,1262 Danforth Ave,416.405.9999,4.47
+Thai,Kiin,Entertainment District,326 Adelaide St W,647.490.5040,4.35
+Thai,Isaan Der,Junction,2961 Dundas St W,416.604.0062,4.17
+Thai,Khao San Road,Entertainment District,11 Charlotte Street,Not Found,4.37
+Thai,Sabai Sabai,Yonge & Bloor,81 Bloor St E,647.748.4225,4.33
+Thai,Salad King,Yonge & Dundas,340 Yonge St.,416.593.0333,3.74
+Thai,Eat BKK,North York,4704 Yonge St.,647.352.8989,3.13
+Thai,Nimman Thai on Lakeshore,Etobicoke,2451 Lakeshore Blvd W,416.255.4224,4.56
+Thai,Kub Khao,Scarborough,3561 Sheppard Ave East,416.297.8888,3.00
+Thai,Jatujak on Victoria Park,Scarborough,1744 Victoria Park Ave.,647.352.1744,3.10
+Thai,Sukhothai on Dundas West,Dundas West,1442 Dundas St. West,416.792.2432,4.36
+Thai,Nana,West Queen West,785 Queen St. West,647.352.5773,4.00
+Thai,Pai,Entertainment District,18 Duncan St.,416.901.4724,4.50
+Thai,Thai Lime,Junction Triangle,1551 Dupont St.,416.516.8424,4.00
+Thai,Satay on the Road,Bayview and Leaside,1572 Bayview Avenue,416.488.5153,-
+Thai,Lemongrass,Bayview and Leaside,1630 Bayview Avenue,416.322.8202 ,-
+Thai,Thai Basil,Annex,467 Bloor St West,416.840.9988,2.80
+Thai,Thai Express,Financial District,"40 King Street West, Scotia Plaza",416.594.9595,2.67
+Thai,Khmer Thai,St. Clair West,1018 St Clair Ave West,416.654.0609,4.60
+Thai,Urban Thai,Little Italy,638 College Street,416.535.8424,2.50
+Thai,Mengrai Thai,King East,82 Ontario Street,416.546.0331,4.13
+Thai,Sukhothai (Wellington),Financial District,52 Wellington St East,647.351.4612,4.13
+Thai,Jatujak (Kingston Road),Scarborough,1466 Kingston Road,416.698.1466,3.67
+Thai,Sorn Thai,Yonge & Eglinton,2550 Yonge St.,416.322.3563,3.33
+Thai,Thai Princess,Entertainment District,387 King Street West,416.977.8222,4.40
+Thai,Thai Elephant,West Queen West,813 Queen Street West,416.366.3400,4.25
+Tibetan,The Momo House,Parkdale,1422 Queen St W,Not Found,4.67
+Tibetan,Songtsen Cafe,Parkdale,1504 Queen St W,416.533.9778,4.67
+Tibetan,Momo Hut,Danforth,401 Danforth Ave.,416.363.8580,4.00
+Tibetan,Loga's Corner,Parkdale,216 Close Ave,647.761.0965,4.06
+Tibetan,Norling,Parkdale,1512 Queen St. W,416.532.2877 ,5.00
+Tibetan,OM Restaurant,Parkdale,1439 Queen Street West,416.532.3901,4.15
+Tibetan,Tibet Kitchen,Parkdale,1544 Queen St W,416.913.8726,4.50
+Tibetan,Kathmandu Restaurant,Yorkville,12 Cumberland St.,647.345.4214,4.50
+Tibetan,Garleek Kitchen,Parkdale,Not Found,Not Found,5.00
+Tibetan,Tiny Cafe,Parkdale,10 Macdonell Ave.,Not Found,5.00
+Tibetan,Himalayan Kitchen,Parkdale,1526 Queen St. W,416.536.4138,4.00
+Tibetan,Karma's Kitchen,Little India,1411 Gerrard St. East,647.345.2762,5.00
+Tibetan,Tsampa Cafe,Parkdale,1528 Queen St. W,416.535.1440,4.50
+Tibetan,Cafe Tibet,Roncesvalles Village,390 Roncesvalles Ave.,416.792.9258,-
+Tibetan,Tashi Delek,Parkdale,223 Jameson Ave.,416.454.0136,-
+Tibetan,Shangrila,Parkdale,1600 Queen St. W,416.588.1100,-
+Tibetan,Little Tibet,Parkdale,1449A Queen St. West,416.532.9728,5.00
+Tibetan,Momo Place,Etobicoke,529 Evans Ave.,416.255.5556,5.00
+Tibetan,Yak & Yeti,High Park,1570 Bloor St W,647.748.1570,-
+Vegetarian,Green Haven,Junction,3080 Dundas St W,416.766.7888,4.67
+Vegetarian,Kupfert & Kim Bistro,Yorkville,100 Bloor St. W,416.925.1222,4.50
+Vegetarian,Sorry I've Got Plants,Roncesvalles Village,476 Roncesvalles Avenue,647.636.5223,4.50
+Vegetarian,Vegwood,Oakwood Village,540 Oakwood Ave,Not Found,4.50
+Vegetarian,by CHLOE. Toronto,North York,3401 Dufferin St,Not Found,4.69
+Vegetarian,Globally Local,Little Italy,492 College Street,Not Found,4.20
+Vegetarian,LOV Toronto,King West,620 King Street West,416.366.8568,4.17
+Vegetarian,Avelo,Yonge & Wellesley,51 St. Nicholas Street,647.643.3132,4.18
+Vegetarian,Planta Queen,Queen West,180 Queen St W,647.812.1221,3.26
+Vegetarian,Disgraceland,Bloorcourt,965 Bloor St W,647.347.5263,3.67
+Vegetarian,Blossom Vegetarian,Richmond Hill,9425 Leslie St.,905.237.7899,4.00
+Vegetarian,Vegandale Brewery,Parkdale,1346 Queen St W,Not Found,3.25
+Vegetarian,Fresh on Front,King East,Not Found,Not Found,3.67
+Vegetarian,Parka Food Co.,Queen West,424 Queen St. West,416.603.3363,4.80
+Vegetarian,Hogtown Vegan on College,Little Italy,382 College St,416.546.7900,3.60
+Vegetarian,Hello 123,West Queen West,1122 Queen St W,416.532.3555,4.22
+Vegetarian,Planta,Yorkville,1221 Bay Street,647.348.7000,3.96
+Vegetarian,Kupfert & Kim on Spadina,Queen West,140 Spadina Avenue,416.504.2206,4.17
+Vegetarian,Crave Healthy Habits (Richmond-Adelaide Centre),Financial District,120 Adelaide St. W.,416.855.3322,3.00
+Vegetarian,Thrive Organic Kitchen,Etobicoke,3473 Lake Shore Boulevard West,416.252.7700,4.67
+Vegetarian,K&K Food Stand,Financial District,150 King St. West,416.260.7777,-
+Vegetarian,Lipstick & Dynamite,West Queen West,992 Queen St. W,416.535.4554,5.00
+Vegetarian,Kupfert & Kim,Financial District,100 King St. West,416.504.1233,4.82
+Vegetarian,Hogtown Vegan,Bloorcourt,1056 Bloor St West,416.901.9779,3.42
+Vegetarian,E.L. Ruddy,Dundas West,1371 Dundas Street West,Not Found,4.33
+Vegetarian,One Love Vegetarian Cafe,Annex,854 Bathurst St.,416.535.5683,4.25
+Vegetarian,Green Earth Vegan Cuisine,Danforth,804 Danforth Avenue,416.778.9199,4.67
+Vegetarian,Annapurna,Annex,1085 Bathurst St,416.537.8513,5.00
+Vegetarian,Cafe 668,Dundas West,885 Dundas Street West,416.703.0668,5.00
+Vegetarian,Urban Herbivore,Kensington Market,64 Oxford Street,416.927.1231,3.92
+Vegetarian,Fresh,Annex,326 Bloor Street West,416.531.2635,4.12
+Vegetarian,Fresh on Eglinton,Yonge & Eglinton,90 Eglinton Ave. E,416.599.4442,4.70
+Vegetarian,Fresh on Crawford,West Queen West,894 Queen Street West,416.599.4442,4.07
+Vegetarian,Fresh on Spadina,Queen West,147 Spadina Avenue,416.599.4442,3.75
+Vegetarian,Feel Good Guru,West Queen West,135 Tecumseth St.,647.748.5800,-
+Vegetarian,Veggie D'Light,Kensington Market,"160 Baldwin St., Unit #3",647.352.7581,-
+Vegetarian,Animal Liberation Kitchen,Riverside,100 Broadview Ave.,647.232.9790,4.00
+Vegetarian,King's Cafe,Kensington Market,192 Augusta Avenue,416.591.1340,4.50
+Vegetarian,Buddha's Vegetarian,Chinatown,666 Dundas Street West,416.603.3811,5.00
+Vegetarian,Greens Vegetarian Restaurant,Kensington Market,638 Dundas St. West,416.603.3337,3.20
